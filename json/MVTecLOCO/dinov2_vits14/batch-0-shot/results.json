@@ -1,0 +1,6284 @@
+{
+  "breakfast_box": [
+    {
+      "path": "logical_anomalies/081.png",
+      "score": 0.19323247516977377
+    },
+    {
+      "path": "logical_anomalies/075.png",
+      "score": 0.19754292276398888
+    },
+    {
+      "path": "logical_anomalies/010.png",
+      "score": 0.19925763535088506
+    },
+    {
+      "path": "good/075.png",
+      "score": 0.19947948024190706
+    },
+    {
+      "path": "good/019.png",
+      "score": 0.20163184558523112
+    },
+    {
+      "path": "logical_anomalies/011.png",
+      "score": 0.20278098922351312
+    },
+    {
+      "path": "logical_anomalies/055.png",
+      "score": 0.20596178389828781
+    },
+    {
+      "path": "good/069.png",
+      "score": 0.207343897942839
+    },
+    {
+      "path": "logical_anomalies/064.png",
+      "score": 0.2080275560247487
+    },
+    {
+      "path": "good/063.png",
+      "score": 0.20961189424169474
+    },
+    {
+      "path": "good/054.png",
+      "score": 0.21008206133184762
+    },
+    {
+      "path": "good/094.png",
+      "score": 0.2106839490347895
+    },
+    {
+      "path": "good/072.png",
+      "score": 0.21132968468912716
+    },
+    {
+      "path": "good/067.png",
+      "score": 0.21135632642384233
+    },
+    {
+      "path": "logical_anomalies/009.png",
+      "score": 0.21219033824986425
+    },
+    {
+      "path": "good/013.png",
+      "score": 0.2122498550291719
+    },
+    {
+      "path": "good/017.png",
+      "score": 0.2129745339525157
+    },
+    {
+      "path": "good/098.png",
+      "score": 0.2141186183896558
+    },
+    {
+      "path": "good/083.png",
+      "score": 0.21440594360746187
+    },
+    {
+      "path": "good/015.png",
+      "score": 0.21475849583231169
+    },
+    {
+      "path": "good/046.png",
+      "score": 0.21500015721238894
+    },
+    {
+      "path": "good/026.png",
+      "score": 0.2152951262120543
+    },
+    {
+      "path": "good/070.png",
+      "score": 0.21539442292575178
+    },
+    {
+      "path": "good/040.png",
+      "score": 0.2162952906098859
+    },
+    {
+      "path": "good/000.png",
+      "score": 0.21643271477058015
+    },
+    {
+      "path": "good/025.png",
+      "score": 0.21653834807461705
+    },
+    {
+      "path": "logical_anomalies/051.png",
+      "score": 0.21664106640322456
+    },
+    {
+      "path": "good/096.png",
+      "score": 0.21672315690024146
+    },
+    {
+      "path": "good/042.png",
+      "score": 0.21690867378793913
+    },
+    {
+      "path": "logical_anomalies/049.png",
+      "score": 0.21698453251657815
+    },
+    {
+      "path": "logical_anomalies/048.png",
+      "score": 0.2176291613743223
+    },
+    {
+      "path": "structural_anomalies/061.png",
+      "score": 0.21765777108998136
+    },
+    {
+      "path": "good/079.png",
+      "score": 0.21782727796455909
+    },
+    {
+      "path": "good/020.png",
+      "score": 0.2180499686249371
+    },
+    {
+      "path": "good/082.png",
+      "score": 0.21874057167562946
+    },
+    {
+      "path": "good/050.png",
+      "score": 0.2188089931833333
+    },
+    {
+      "path": "good/066.png",
+      "score": 0.21881241633974272
+    },
+    {
+      "path": "good/005.png",
+      "score": 0.2188813162261042
+    },
+    {
+      "path": "good/100.png",
+      "score": 0.21913595908674702
+    },
+    {
+      "path": "good/089.png",
+      "score": 0.21971248604100327
+    },
+    {
+      "path": "good/039.png",
+      "score": 0.21983247276010184
+    },
+    {
+      "path": "good/097.png",
+      "score": 0.21990255137969708
+    },
+    {
+      "path": "good/049.png",
+      "score": 0.2202027902520936
+    },
+    {
+      "path": "structural_anomalies/060.png",
+      "score": 0.2206561647612473
+    },
+    {
+      "path": "good/078.png",
+      "score": 0.22078044198710342
+    },
+    {
+      "path": "good/041.png",
+      "score": 0.22121807521787182
+    },
+    {
+      "path": "good/014.png",
+      "score": 0.22126811228949447
+    },
+    {
+      "path": "good/091.png",
+      "score": 0.22132785053088747
+    },
+    {
+      "path": "good/010.png",
+      "score": 0.22235926677440776
+    },
+    {
+      "path": "good/024.png",
+      "score": 0.2227022498846054
+    },
+    {
+      "path": "good/037.png",
+      "score": 0.22300715898645335
+    },
+    {
+      "path": "logical_anomalies/004.png",
+      "score": 0.22303114471764401
+    },
+    {
+      "path": "logical_anomalies/005.png",
+      "score": 0.22340792623059502
+    },
+    {
+      "path": "good/073.png",
+      "score": 0.22341816743900036
+    },
+    {
+      "path": "structural_anomalies/006.png",
+      "score": 0.22349902216730447
+    },
+    {
+      "path": "good/068.png",
+      "score": 0.22420005705849877
+    },
+    {
+      "path": "good/071.png",
+      "score": 0.22420343962208977
+    },
+    {
+      "path": "structural_anomalies/066.png",
+      "score": 0.22438197865568357
+    },
+    {
+      "path": "good/006.png",
+      "score": 0.22524822683169923
+    },
+    {
+      "path": "good/012.png",
+      "score": 0.2254198126751801
+    },
+    {
+      "path": "logical_anomalies/019.png",
+      "score": 0.22551544884155536
+    },
+    {
+      "path": "good/047.png",
+      "score": 0.22556102943831477
+    },
+    {
+      "path": "good/034.png",
+      "score": 0.2256189034930591
+    },
+    {
+      "path": "good/053.png",
+      "score": 0.2256262800816832
+    },
+    {
+      "path": "good/061.png",
+      "score": 0.22597138789193383
+    },
+    {
+      "path": "good/045.png",
+      "score": 0.22613181327951365
+    },
+    {
+      "path": "good/059.png",
+      "score": 0.2263845148785361
+    },
+    {
+      "path": "structural_anomalies/071.png",
+      "score": 0.22645202792924027
+    },
+    {
+      "path": "good/022.png",
+      "score": 0.22669722653668503
+    },
+    {
+      "path": "logical_anomalies/077.png",
+      "score": 0.2267474182720842
+    },
+    {
+      "path": "logical_anomalies/054.png",
+      "score": 0.2269817071742025
+    },
+    {
+      "path": "good/088.png",
+      "score": 0.2270884426503346
+    },
+    {
+      "path": "good/058.png",
+      "score": 0.22713304747795238
+    },
+    {
+      "path": "logical_anomalies/013.png",
+      "score": 0.22720243807496696
+    },
+    {
+      "path": "structural_anomalies/001.png",
+      "score": 0.22743892309994534
+    },
+    {
+      "path": "good/030.png",
+      "score": 0.22783849208519377
+    },
+    {
+      "path": "logical_anomalies/016.png",
+      "score": 0.22827284654666638
+    },
+    {
+      "path": "logical_anomalies/007.png",
+      "score": 0.2284288863683569
+    },
+    {
+      "path": "good/028.png",
+      "score": 0.2284564982200491
+    },
+    {
+      "path": "logical_anomalies/059.png",
+      "score": 0.22847280214572774
+    },
+    {
+      "path": "logical_anomalies/061.png",
+      "score": 0.2285016723747911
+    },
+    {
+      "path": "logical_anomalies/012.png",
+      "score": 0.22877588097391457
+    },
+    {
+      "path": "good/090.png",
+      "score": 0.22898412264626603
+    },
+    {
+      "path": "good/085.png",
+      "score": 0.2290245202080957
+    },
+    {
+      "path": "logical_anomalies/003.png",
+      "score": 0.22909594404286351
+    },
+    {
+      "path": "good/029.png",
+      "score": 0.22925428018487734
+    },
+    {
+      "path": "good/032.png",
+      "score": 0.22930579349912447
+    },
+    {
+      "path": "good/011.png",
+      "score": 0.22936566636480135
+    },
+    {
+      "path": "good/051.png",
+      "score": 0.22975138703296924
+    },
+    {
+      "path": "good/095.png",
+      "score": 0.23023892528024212
+    },
+    {
+      "path": "good/057.png",
+      "score": 0.23114725484930235
+    },
+    {
+      "path": "good/016.png",
+      "score": 0.23137518044175773
+    },
+    {
+      "path": "good/033.png",
+      "score": 0.23222686144812354
+    },
+    {
+      "path": "logical_anomalies/037.png",
+      "score": 0.23248975646906886
+    },
+    {
+      "path": "logical_anomalies/018.png",
+      "score": 0.23272024608891587
+    },
+    {
+      "path": "structural_anomalies/015.png",
+      "score": 0.23292138710104185
+    },
+    {
+      "path": "good/077.png",
+      "score": 0.23298225628918615
+    },
+    {
+      "path": "logical_anomalies/040.png",
+      "score": 0.23299694626495757
+    },
+    {
+      "path": "good/081.png",
+      "score": 0.2334573556636942
+    },
+    {
+      "path": "good/048.png",
+      "score": 0.23348864090853724
+    },
+    {
+      "path": "good/043.png",
+      "score": 0.23370072964964242
+    },
+    {
+      "path": "logical_anomalies/014.png",
+      "score": 0.23385014410676627
+    },
+    {
+      "path": "good/092.png",
+      "score": 0.23396082993211417
+    },
+    {
+      "path": "good/002.png",
+      "score": 0.2340196586888412
+    },
+    {
+      "path": "logical_anomalies/068.png",
+      "score": 0.2342384873793043
+    },
+    {
+      "path": "good/044.png",
+      "score": 0.23451856035610724
+    },
+    {
+      "path": "good/027.png",
+      "score": 0.23458183017270318
+    },
+    {
+      "path": "good/001.png",
+      "score": 0.23480347877946392
+    },
+    {
+      "path": "good/003.png",
+      "score": 0.2349020920950791
+    },
+    {
+      "path": "good/056.png",
+      "score": 0.23508316792290787
+    },
+    {
+      "path": "logical_anomalies/008.png",
+      "score": 0.23511548597237159
+    },
+    {
+      "path": "logical_anomalies/041.png",
+      "score": 0.23512771674271288
+    },
+    {
+      "path": "good/065.png",
+      "score": 0.2352955557149032
+    },
+    {
+      "path": "good/086.png",
+      "score": 0.2354951213146078
+    },
+    {
+      "path": "logical_anomalies/057.png",
+      "score": 0.23555793073670617
+    },
+    {
+      "path": "structural_anomalies/063.png",
+      "score": 0.2358920512528255
+    },
+    {
+      "path": "good/018.png",
+      "score": 0.23604182590698375
+    },
+    {
+      "path": "good/038.png",
+      "score": 0.23668062995220052
+    },
+    {
+      "path": "logical_anomalies/066.png",
+      "score": 0.2370806022964675
+    },
+    {
+      "path": "structural_anomalies/007.png",
+      "score": 0.2371454819523055
+    },
+    {
+      "path": "good/084.png",
+      "score": 0.23726239903219815
+    },
+    {
+      "path": "structural_anomalies/022.png",
+      "score": 0.23747062888638726
+    },
+    {
+      "path": "good/052.png",
+      "score": 0.23754519429700127
+    },
+    {
+      "path": "logical_anomalies/022.png",
+      "score": 0.23757540871357097
+    },
+    {
+      "path": "logical_anomalies/060.png",
+      "score": 0.23758692114517607
+    },
+    {
+      "path": "good/076.png",
+      "score": 0.23794842280190567
+    },
+    {
+      "path": "logical_anomalies/062.png",
+      "score": 0.2379989999121633
+    },
+    {
+      "path": "good/074.png",
+      "score": 0.2383314453322312
+    },
+    {
+      "path": "good/021.png",
+      "score": 0.23845972069378557
+    },
+    {
+      "path": "good/035.png",
+      "score": 0.23870435408477125
+    },
+    {
+      "path": "structural_anomalies/057.png",
+      "score": 0.23872984688857507
+    },
+    {
+      "path": "logical_anomalies/070.png",
+      "score": 0.23915780926572866
+    },
+    {
+      "path": "logical_anomalies/043.png",
+      "score": 0.23922825681752172
+    },
+    {
+      "path": "logical_anomalies/006.png",
+      "score": 0.2400648501412622
+    },
+    {
+      "path": "good/087.png",
+      "score": 0.24063053984066535
+    },
+    {
+      "path": "logical_anomalies/024.png",
+      "score": 0.24090573345792704
+    },
+    {
+      "path": "good/080.png",
+      "score": 0.24178542659200472
+    },
+    {
+      "path": "logical_anomalies/069.png",
+      "score": 0.24198558361365877
+    },
+    {
+      "path": "good/055.png",
+      "score": 0.24300289719269194
+    },
+    {
+      "path": "structural_anomalies/068.png",
+      "score": 0.24320799112319946
+    },
+    {
+      "path": "logical_anomalies/015.png",
+      "score": 0.24328936893364478
+    },
+    {
+      "path": "structural_anomalies/069.png",
+      "score": 0.24383155384968067
+    },
+    {
+      "path": "logical_anomalies/058.png",
+      "score": 0.24487687082126222
+    },
+    {
+      "path": "good/093.png",
+      "score": 0.2456687231516016
+    },
+    {
+      "path": "logical_anomalies/073.png",
+      "score": 0.24623529458868093
+    },
+    {
+      "path": "good/004.png",
+      "score": 0.24653892321833248
+    },
+    {
+      "path": "logical_anomalies/021.png",
+      "score": 0.24661429997148185
+    },
+    {
+      "path": "logical_anomalies/050.png",
+      "score": 0.2468760784330039
+    },
+    {
+      "path": "logical_anomalies/020.png",
+      "score": 0.24688031704261384
+    },
+    {
+      "path": "good/062.png",
+      "score": 0.24718385164079995
+    },
+    {
+      "path": "structural_anomalies/087.png",
+      "score": 0.2472540237780275
+    },
+    {
+      "path": "structural_anomalies/074.png",
+      "score": 0.24840495247265387
+    },
+    {
+      "path": "good/008.png",
+      "score": 0.24850771190791293
+    },
+    {
+      "path": "logical_anomalies/023.png",
+      "score": 0.24867432436038708
+    },
+    {
+      "path": "logical_anomalies/074.png",
+      "score": 0.24881566238814387
+    },
+    {
+      "path": "logical_anomalies/032.png",
+      "score": 0.24909497746105852
+    },
+    {
+      "path": "structural_anomalies/034.png",
+      "score": 0.24988880702133837
+    },
+    {
+      "path": "logical_anomalies/038.png",
+      "score": 0.2502164311450103
+    },
+    {
+      "path": "good/031.png",
+      "score": 0.25040292123268393
+    },
+    {
+      "path": "good/007.png",
+      "score": 0.2517134552371913
+    },
+    {
+      "path": "logical_anomalies/072.png",
+      "score": 0.25201224510012
+    },
+    {
+      "path": "good/060.png",
+      "score": 0.2529616561429254
+    },
+    {
+      "path": "logical_anomalies/067.png",
+      "score": 0.2537189357239625
+    },
+    {
+      "path": "logical_anomalies/076.png",
+      "score": 0.2538177114108513
+    },
+    {
+      "path": "structural_anomalies/028.png",
+      "score": 0.25399291669500285
+    },
+    {
+      "path": "good/036.png",
+      "score": 0.2550513019849514
+    },
+    {
+      "path": "logical_anomalies/017.png",
+      "score": 0.25515370790300695
+    },
+    {
+      "path": "structural_anomalies/049.png",
+      "score": 0.2556830254094354
+    },
+    {
+      "path": "structural_anomalies/054.png",
+      "score": 0.256594262760261
+    },
+    {
+      "path": "logical_anomalies/056.png",
+      "score": 0.2569210488220741
+    },
+    {
+      "path": "structural_anomalies/082.png",
+      "score": 0.2578060421450385
+    },
+    {
+      "path": "logical_anomalies/027.png",
+      "score": 0.25782524306198645
+    },
+    {
+      "path": "logical_anomalies/065.png",
+      "score": 0.25849851246537836
+    },
+    {
+      "path": "good/101.png",
+      "score": 0.25877550038798103
+    },
+    {
+      "path": "logical_anomalies/063.png",
+      "score": 0.25880021165157185
+    },
+    {
+      "path": "structural_anomalies/088.png",
+      "score": 0.2588669878655466
+    },
+    {
+      "path": "good/023.png",
+      "score": 0.25944625457813
+    },
+    {
+      "path": "logical_anomalies/042.png",
+      "score": 0.26034443234575205
+    },
+    {
+      "path": "logical_anomalies/047.png",
+      "score": 0.26317041084684173
+    },
+    {
+      "path": "logical_anomalies/031.png",
+      "score": 0.26348038223283043
+    },
+    {
+      "path": "structural_anomalies/075.png",
+      "score": 0.263573603383426
+    },
+    {
+      "path": "logical_anomalies/046.png",
+      "score": 0.2639239163234316
+    },
+    {
+      "path": "structural_anomalies/016.png",
+      "score": 0.265658104214175
+    },
+    {
+      "path": "logical_anomalies/080.png",
+      "score": 0.26624624020066756
+    },
+    {
+      "path": "logical_anomalies/036.png",
+      "score": 0.26638222768388947
+    },
+    {
+      "path": "good/009.png",
+      "score": 0.2665119022130966
+    },
+    {
+      "path": "structural_anomalies/083.png",
+      "score": 0.2671641280938839
+    },
+    {
+      "path": "structural_anomalies/000.png",
+      "score": 0.2672844837451803
+    },
+    {
+      "path": "logical_anomalies/044.png",
+      "score": 0.26735120189600975
+    },
+    {
+      "path": "structural_anomalies/055.png",
+      "score": 0.26742604220735616
+    },
+    {
+      "path": "structural_anomalies/086.png",
+      "score": 0.26803098773134165
+    },
+    {
+      "path": "logical_anomalies/030.png",
+      "score": 0.26870906096080255
+    },
+    {
+      "path": "logical_anomalies/053.png",
+      "score": 0.2694967080806864
+    },
+    {
+      "path": "logical_anomalies/025.png",
+      "score": 0.2698282291149271
+    },
+    {
+      "path": "logical_anomalies/052.png",
+      "score": 0.2700784093347089
+    },
+    {
+      "path": "good/064.png",
+      "score": 0.2702871448007123
+    },
+    {
+      "path": "logical_anomalies/039.png",
+      "score": 0.27104786449465257
+    },
+    {
+      "path": "structural_anomalies/065.png",
+      "score": 0.27110855281352997
+    },
+    {
+      "path": "structural_anomalies/064.png",
+      "score": 0.27177300946465854
+    },
+    {
+      "path": "structural_anomalies/059.png",
+      "score": 0.27226656880872
+    },
+    {
+      "path": "structural_anomalies/080.png",
+      "score": 0.2726222112261016
+    },
+    {
+      "path": "structural_anomalies/078.png",
+      "score": 0.27302776739515106
+    },
+    {
+      "path": "structural_anomalies/089.png",
+      "score": 0.2755279489632311
+    },
+    {
+      "path": "structural_anomalies/084.png",
+      "score": 0.2763422994778074
+    },
+    {
+      "path": "logical_anomalies/026.png",
+      "score": 0.2778620673664685
+    },
+    {
+      "path": "structural_anomalies/005.png",
+      "score": 0.2797352270833377
+    },
+    {
+      "path": "logical_anomalies/035.png",
+      "score": 0.27999880601619853
+    },
+    {
+      "path": "good/099.png",
+      "score": 0.28025106982938175
+    },
+    {
+      "path": "logical_anomalies/033.png",
+      "score": 0.28168301541229773
+    },
+    {
+      "path": "structural_anomalies/024.png",
+      "score": 0.2822625138636293
+    },
+    {
+      "path": "structural_anomalies/032.png",
+      "score": 0.28263889869739267
+    },
+    {
+      "path": "logical_anomalies/034.png",
+      "score": 0.28353382390120935
+    },
+    {
+      "path": "structural_anomalies/002.png",
+      "score": 0.285124392858867
+    },
+    {
+      "path": "structural_anomalies/072.png",
+      "score": 0.2852231310359363
+    },
+    {
+      "path": "structural_anomalies/058.png",
+      "score": 0.2861123583440123
+    },
+    {
+      "path": "structural_anomalies/045.png",
+      "score": 0.2868882345742193
+    },
+    {
+      "path": "structural_anomalies/077.png",
+      "score": 0.2869880857138798
+    },
+    {
+      "path": "logical_anomalies/071.png",
+      "score": 0.28703108840975267
+    },
+    {
+      "path": "structural_anomalies/067.png",
+      "score": 0.28797062409335167
+    },
+    {
+      "path": "structural_anomalies/073.png",
+      "score": 0.2882023659245721
+    },
+    {
+      "path": "logical_anomalies/028.png",
+      "score": 0.28930196063271885
+    },
+    {
+      "path": "structural_anomalies/003.png",
+      "score": 0.2904247507966798
+    },
+    {
+      "path": "structural_anomalies/044.png",
+      "score": 0.29052164379892675
+    },
+    {
+      "path": "structural_anomalies/081.png",
+      "score": 0.29185601760601176
+    },
+    {
+      "path": "structural_anomalies/046.png",
+      "score": 0.2925626650966447
+    },
+    {
+      "path": "structural_anomalies/085.png",
+      "score": 0.29619799708497935
+    },
+    {
+      "path": "logical_anomalies/029.png",
+      "score": 0.29824121450555735
+    },
+    {
+      "path": "structural_anomalies/038.png",
+      "score": 0.2988899113803074
+    },
+    {
+      "path": "structural_anomalies/019.png",
+      "score": 0.3043326036683444
+    },
+    {
+      "path": "logical_anomalies/079.png",
+      "score": 0.30498868843604776
+    },
+    {
+      "path": "logical_anomalies/082.png",
+      "score": 0.305705260613869
+    },
+    {
+      "path": "logical_anomalies/078.png",
+      "score": 0.31075005181904497
+    },
+    {
+      "path": "structural_anomalies/009.png",
+      "score": 0.311566696598612
+    },
+    {
+      "path": "structural_anomalies/021.png",
+      "score": 0.32360486686229706
+    },
+    {
+      "path": "logical_anomalies/002.png",
+      "score": 0.32451352682606927
+    },
+    {
+      "path": "structural_anomalies/050.png",
+      "score": 0.32945072291226224
+    },
+    {
+      "path": "structural_anomalies/051.png",
+      "score": 0.3299255278603784
+    },
+    {
+      "path": "logical_anomalies/000.png",
+      "score": 0.33088047339998444
+    },
+    {
+      "path": "structural_anomalies/039.png",
+      "score": 0.3337775746296192
+    },
+    {
+      "path": "structural_anomalies/079.png",
+      "score": 0.3356147562635356
+    },
+    {
+      "path": "logical_anomalies/045.png",
+      "score": 0.3357732234330013
+    },
+    {
+      "path": "structural_anomalies/076.png",
+      "score": 0.3378410051608908
+    },
+    {
+      "path": "structural_anomalies/052.png",
+      "score": 0.33918684977909613
+    },
+    {
+      "path": "structural_anomalies/053.png",
+      "score": 0.340757777978634
+    },
+    {
+      "path": "structural_anomalies/062.png",
+      "score": 0.3417329839591322
+    },
+    {
+      "path": "structural_anomalies/017.png",
+      "score": 0.3462532542902848
+    },
+    {
+      "path": "structural_anomalies/043.png",
+      "score": 0.3479075950795206
+    },
+    {
+      "path": "structural_anomalies/047.png",
+      "score": 0.3482707605279725
+    },
+    {
+      "path": "structural_anomalies/056.png",
+      "score": 0.35732701420783997
+    },
+    {
+      "path": "structural_anomalies/041.png",
+      "score": 0.3615428846457909
+    },
+    {
+      "path": "structural_anomalies/040.png",
+      "score": 0.3709973024910894
+    },
+    {
+      "path": "structural_anomalies/033.png",
+      "score": 0.37240820455140083
+    },
+    {
+      "path": "structural_anomalies/025.png",
+      "score": 0.37264080448397274
+    },
+    {
+      "path": "structural_anomalies/037.png",
+      "score": 0.3760417473727259
+    },
+    {
+      "path": "logical_anomalies/001.png",
+      "score": 0.3799256281606082
+    },
+    {
+      "path": "structural_anomalies/011.png",
+      "score": 0.38345079689190303
+    },
+    {
+      "path": "structural_anomalies/031.png",
+      "score": 0.3847228442800456
+    },
+    {
+      "path": "structural_anomalies/013.png",
+      "score": 0.39847874281735257
+    },
+    {
+      "path": "structural_anomalies/010.png",
+      "score": 0.4161514865941015
+    },
+    {
+      "path": "structural_anomalies/012.png",
+      "score": 0.4187403793992667
+    },
+    {
+      "path": "structural_anomalies/030.png",
+      "score": 0.43001886380129845
+    },
+    {
+      "path": "structural_anomalies/048.png",
+      "score": 0.43017527152752055
+    },
+    {
+      "path": "structural_anomalies/042.png",
+      "score": 0.434342416709867
+    },
+    {
+      "path": "structural_anomalies/070.png",
+      "score": 0.43572691802320807
+    },
+    {
+      "path": "structural_anomalies/008.png",
+      "score": 0.4381433283460551
+    },
+    {
+      "path": "structural_anomalies/029.png",
+      "score": 0.47605440123327847
+    },
+    {
+      "path": "structural_anomalies/023.png",
+      "score": 0.4879288087631094
+    },
+    {
+      "path": "structural_anomalies/027.png",
+      "score": 0.500678873267667
+    },
+    {
+      "path": "structural_anomalies/020.png",
+      "score": 0.5093869772450678
+    },
+    {
+      "path": "structural_anomalies/026.png",
+      "score": 0.5099702374688511
+    },
+    {
+      "path": "structural_anomalies/035.png",
+      "score": 0.5279014038628546
+    },
+    {
+      "path": "structural_anomalies/018.png",
+      "score": 0.5796330427301342
+    },
+    {
+      "path": "structural_anomalies/036.png",
+      "score": 0.5963584266859909
+    },
+    {
+      "path": "structural_anomalies/004.png",
+      "score": 0.6171849287789444
+    },
+    {
+      "path": "structural_anomalies/014.png",
+      "score": 0.6800001201958492
+    }
+  ],
+  "juice_bottle": [
+    {
+      "path": "good/035.png",
+      "score": 0.1539808099574231
+    },
+    {
+      "path": "good/017.png",
+      "score": 0.15829132180264655
+    },
+    {
+      "path": "logical_anomalies/132.png",
+      "score": 0.15861612019386698
+    },
+    {
+      "path": "good/067.png",
+      "score": 0.15954642378269357
+    },
+    {
+      "path": "logical_anomalies/104.png",
+      "score": 0.15967897373311063
+    },
+    {
+      "path": "good/078.png",
+      "score": 0.16200027820911814
+    },
+    {
+      "path": "good/005.png",
+      "score": 0.16239957765061805
+    },
+    {
+      "path": "logical_anomalies/036.png",
+      "score": 0.163106843195063
+    },
+    {
+      "path": "good/045.png",
+      "score": 0.16312617348863723
+    },
+    {
+      "path": "logical_anomalies/134.png",
+      "score": 0.1649299068970883
+    },
+    {
+      "path": "good/072.png",
+      "score": 0.167513814695338
+    },
+    {
+      "path": "good/070.png",
+      "score": 0.16759473814609202
+    },
+    {
+      "path": "structural_anomalies/057.png",
+      "score": 0.1676372137475521
+    },
+    {
+      "path": "good/043.png",
+      "score": 0.16788936992909045
+    },
+    {
+      "path": "logical_anomalies/083.png",
+      "score": 0.16811727653158473
+    },
+    {
+      "path": "good/002.png",
+      "score": 0.1686574784999198
+    },
+    {
+      "path": "logical_anomalies/141.png",
+      "score": 0.16876865257608129
+    },
+    {
+      "path": "good/000.png",
+      "score": 0.16926996568416028
+    },
+    {
+      "path": "good/048.png",
+      "score": 0.16961202849733067
+    },
+    {
+      "path": "good/006.png",
+      "score": 0.17061277082625856
+    },
+    {
+      "path": "good/059.png",
+      "score": 0.17066621146303543
+    },
+    {
+      "path": "good/061.png",
+      "score": 0.17069202978560266
+    },
+    {
+      "path": "structural_anomalies/053.png",
+      "score": 0.17100432895599527
+    },
+    {
+      "path": "structural_anomalies/046.png",
+      "score": 0.17125327948560107
+    },
+    {
+      "path": "good/009.png",
+      "score": 0.17130697280802626
+    },
+    {
+      "path": "good/075.png",
+      "score": 0.1718271866123727
+    },
+    {
+      "path": "good/064.png",
+      "score": 0.17232019533502294
+    },
+    {
+      "path": "good/008.png",
+      "score": 0.17257727080203117
+    },
+    {
+      "path": "logical_anomalies/126.png",
+      "score": 0.17263418372641218
+    },
+    {
+      "path": "good/057.png",
+      "score": 0.17264951321672886
+    },
+    {
+      "path": "good/022.png",
+      "score": 0.17277854681015015
+    },
+    {
+      "path": "structural_anomalies/054.png",
+      "score": 0.17302815489312437
+    },
+    {
+      "path": "logical_anomalies/045.png",
+      "score": 0.17304612505943218
+    },
+    {
+      "path": "good/018.png",
+      "score": 0.17307009563801137
+    },
+    {
+      "path": "good/011.png",
+      "score": 0.17328084846760364
+    },
+    {
+      "path": "logical_anomalies/013.png",
+      "score": 0.17341154211379112
+    },
+    {
+      "path": "good/051.png",
+      "score": 0.17341354901486256
+    },
+    {
+      "path": "good/083.png",
+      "score": 0.17343747108540636
+    },
+    {
+      "path": "good/024.png",
+      "score": 0.17367572670287273
+    },
+    {
+      "path": "good/016.png",
+      "score": 0.174365093733402
+    },
+    {
+      "path": "good/090.png",
+      "score": 0.17471869892262398
+    },
+    {
+      "path": "good/027.png",
+      "score": 0.17483806293061438
+    },
+    {
+      "path": "structural_anomalies/062.png",
+      "score": 0.17513816058635712
+    },
+    {
+      "path": "structural_anomalies/056.png",
+      "score": 0.1754280319239231
+    },
+    {
+      "path": "structural_anomalies/058.png",
+      "score": 0.17557133575703235
+    },
+    {
+      "path": "logical_anomalies/128.png",
+      "score": 0.17570988104698507
+    },
+    {
+      "path": "logical_anomalies/078.png",
+      "score": 0.17598690726655594
+    },
+    {
+      "path": "logical_anomalies/085.png",
+      "score": 0.17625054907291493
+    },
+    {
+      "path": "good/056.png",
+      "score": 0.17638223634121267
+    },
+    {
+      "path": "good/040.png",
+      "score": 0.17681456880366547
+    },
+    {
+      "path": "logical_anomalies/014.png",
+      "score": 0.1771409238906617
+    },
+    {
+      "path": "good/019.png",
+      "score": 0.17716934484370211
+    },
+    {
+      "path": "good/030.png",
+      "score": 0.17718612735575817
+    },
+    {
+      "path": "good/032.png",
+      "score": 0.17719726296181373
+    },
+    {
+      "path": "good/047.png",
+      "score": 0.17753251372499668
+    },
+    {
+      "path": "good/033.png",
+      "score": 0.17765857786574263
+    },
+    {
+      "path": "good/080.png",
+      "score": 0.1776650639924597
+    },
+    {
+      "path": "logical_anomalies/123.png",
+      "score": 0.1777403582917883
+    },
+    {
+      "path": "logical_anomalies/077.png",
+      "score": 0.17780104723382503
+    },
+    {
+      "path": "structural_anomalies/048.png",
+      "score": 0.17785203203241876
+    },
+    {
+      "path": "structural_anomalies/059.png",
+      "score": 0.1778933361489722
+    },
+    {
+      "path": "logical_anomalies/107.png",
+      "score": 0.17793324558024712
+    },
+    {
+      "path": "good/028.png",
+      "score": 0.17806766958946876
+    },
+    {
+      "path": "logical_anomalies/039.png",
+      "score": 0.1783877154614063
+    },
+    {
+      "path": "good/065.png",
+      "score": 0.17842101448393882
+    },
+    {
+      "path": "logical_anomalies/072.png",
+      "score": 0.17877270598360834
+    },
+    {
+      "path": "good/082.png",
+      "score": 0.17898884130285142
+    },
+    {
+      "path": "logical_anomalies/043.png",
+      "score": 0.1791514814534086
+    },
+    {
+      "path": "good/012.png",
+      "score": 0.17918944707576265
+    },
+    {
+      "path": "good/010.png",
+      "score": 0.17970769741433731
+    },
+    {
+      "path": "logical_anomalies/129.png",
+      "score": 0.1799729219142427
+    },
+    {
+      "path": "structural_anomalies/061.png",
+      "score": 0.17997596999432178
+    },
+    {
+      "path": "good/060.png",
+      "score": 0.1802243045035829
+    },
+    {
+      "path": "logical_anomalies/037.png",
+      "score": 0.18064870479259085
+    },
+    {
+      "path": "logical_anomalies/044.png",
+      "score": 0.18068138716068674
+    },
+    {
+      "path": "logical_anomalies/023.png",
+      "score": 0.1808551917684839
+    },
+    {
+      "path": "logical_anomalies/019.png",
+      "score": 0.18119725997143604
+    },
+    {
+      "path": "good/049.png",
+      "score": 0.18228252485711524
+    },
+    {
+      "path": "good/014.png",
+      "score": 0.1823087826054147
+    },
+    {
+      "path": "good/039.png",
+      "score": 0.18231891254161267
+    },
+    {
+      "path": "logical_anomalies/017.png",
+      "score": 0.18236206091464835
+    },
+    {
+      "path": "good/044.png",
+      "score": 0.18242003182147412
+    },
+    {
+      "path": "good/054.png",
+      "score": 0.18243269875962684
+    },
+    {
+      "path": "good/001.png",
+      "score": 0.18246198207774061
+    },
+    {
+      "path": "good/087.png",
+      "score": 0.18265387003726147
+    },
+    {
+      "path": "good/026.png",
+      "score": 0.18282300899637507
+    },
+    {
+      "path": "structural_anomalies/036.png",
+      "score": 0.1830600915437049
+    },
+    {
+      "path": "good/055.png",
+      "score": 0.1831451746377539
+    },
+    {
+      "path": "good/042.png",
+      "score": 0.1832805979759135
+    },
+    {
+      "path": "structural_anomalies/052.png",
+      "score": 0.1834442504542939
+    },
+    {
+      "path": "logical_anomalies/080.png",
+      "score": 0.18399749093867362
+    },
+    {
+      "path": "good/085.png",
+      "score": 0.18413455689207037
+    },
+    {
+      "path": "good/073.png",
+      "score": 0.18420472360671836
+    },
+    {
+      "path": "good/079.png",
+      "score": 0.18427724153437514
+    },
+    {
+      "path": "logical_anomalies/099.png",
+      "score": 0.18461238133146407
+    },
+    {
+      "path": "logical_anomalies/053.png",
+      "score": 0.184673861620274
+    },
+    {
+      "path": "logical_anomalies/119.png",
+      "score": 0.1852982738550673
+    },
+    {
+      "path": "logical_anomalies/124.png",
+      "score": 0.18541618040267457
+    },
+    {
+      "path": "logical_anomalies/103.png",
+      "score": 0.1855181376350687
+    },
+    {
+      "path": "good/021.png",
+      "score": 0.18572662295179165
+    },
+    {
+      "path": "good/071.png",
+      "score": 0.18577031759505577
+    },
+    {
+      "path": "good/031.png",
+      "score": 0.1857888032781317
+    },
+    {
+      "path": "logical_anomalies/012.png",
+      "score": 0.1858995718524811
+    },
+    {
+      "path": "structural_anomalies/044.png",
+      "score": 0.18636666745581526
+    },
+    {
+      "path": "logical_anomalies/130.png",
+      "score": 0.18641948604837377
+    },
+    {
+      "path": "good/036.png",
+      "score": 0.18643354767180503
+    },
+    {
+      "path": "good/068.png",
+      "score": 0.1866978828577285
+    },
+    {
+      "path": "logical_anomalies/120.png",
+      "score": 0.1868551585902559
+    },
+    {
+      "path": "good/062.png",
+      "score": 0.18705964342076728
+    },
+    {
+      "path": "good/037.png",
+      "score": 0.1870689220885013
+    },
+    {
+      "path": "good/013.png",
+      "score": 0.1871967670765329
+    },
+    {
+      "path": "structural_anomalies/034.png",
+      "score": 0.18721915781497955
+    },
+    {
+      "path": "good/091.png",
+      "score": 0.1874047524117409
+    },
+    {
+      "path": "logical_anomalies/122.png",
+      "score": 0.18761418886641237
+    },
+    {
+      "path": "logical_anomalies/056.png",
+      "score": 0.18789415188292238
+    },
+    {
+      "path": "good/052.png",
+      "score": 0.18819259836318644
+    },
+    {
+      "path": "good/050.png",
+      "score": 0.18840293617958717
+    },
+    {
+      "path": "good/074.png",
+      "score": 0.18844701222916868
+    },
+    {
+      "path": "good/029.png",
+      "score": 0.1884646250846538
+    },
+    {
+      "path": "logical_anomalies/021.png",
+      "score": 0.1885093980013056
+    },
+    {
+      "path": "logical_anomalies/121.png",
+      "score": 0.18854736901344138
+    },
+    {
+      "path": "logical_anomalies/096.png",
+      "score": 0.188616211109973
+    },
+    {
+      "path": "good/093.png",
+      "score": 0.18877876692629875
+    },
+    {
+      "path": "logical_anomalies/133.png",
+      "score": 0.18933606464812097
+    },
+    {
+      "path": "logical_anomalies/022.png",
+      "score": 0.18943544017507674
+    },
+    {
+      "path": "logical_anomalies/040.png",
+      "score": 0.18952625355821975
+    },
+    {
+      "path": "logical_anomalies/074.png",
+      "score": 0.1898908976544725
+    },
+    {
+      "path": "good/076.png",
+      "score": 0.19001444603534454
+    },
+    {
+      "path": "logical_anomalies/081.png",
+      "score": 0.1903798833806464
+    },
+    {
+      "path": "structural_anomalies/037.png",
+      "score": 0.1904096429018264
+    },
+    {
+      "path": "logical_anomalies/137.png",
+      "score": 0.19090266303813203
+    },
+    {
+      "path": "logical_anomalies/135.png",
+      "score": 0.19094297923940293
+    },
+    {
+      "path": "structural_anomalies/035.png",
+      "score": 0.19119730782001576
+    },
+    {
+      "path": "good/084.png",
+      "score": 0.19195014460289733
+    },
+    {
+      "path": "good/077.png",
+      "score": 0.19198418804939757
+    },
+    {
+      "path": "logical_anomalies/138.png",
+      "score": 0.19205737652930807
+    },
+    {
+      "path": "logical_anomalies/100.png",
+      "score": 0.19226057098266927
+    },
+    {
+      "path": "good/058.png",
+      "score": 0.19235221058764357
+    },
+    {
+      "path": "good/089.png",
+      "score": 0.19289516134464996
+    },
+    {
+      "path": "logical_anomalies/048.png",
+      "score": 0.19304397068125137
+    },
+    {
+      "path": "good/066.png",
+      "score": 0.19413239334491975
+    },
+    {
+      "path": "logical_anomalies/050.png",
+      "score": 0.19414519217420131
+    },
+    {
+      "path": "logical_anomalies/116.png",
+      "score": 0.194519431350079
+    },
+    {
+      "path": "logical_anomalies/016.png",
+      "score": 0.19480745969934665
+    },
+    {
+      "path": "structural_anomalies/016.png",
+      "score": 0.19563265715507752
+    },
+    {
+      "path": "structural_anomalies/055.png",
+      "score": 0.19592435848205647
+    },
+    {
+      "path": "logical_anomalies/111.png",
+      "score": 0.196044792837285
+    },
+    {
+      "path": "structural_anomalies/063.png",
+      "score": 0.19629017438026183
+    },
+    {
+      "path": "logical_anomalies/015.png",
+      "score": 0.1968368574025783
+    },
+    {
+      "path": "structural_anomalies/045.png",
+      "score": 0.19720118223352634
+    },
+    {
+      "path": "structural_anomalies/090.png",
+      "score": 0.19743043342803387
+    },
+    {
+      "path": "logical_anomalies/020.png",
+      "score": 0.19781113939082368
+    },
+    {
+      "path": "good/069.png",
+      "score": 0.19794696601147346
+    },
+    {
+      "path": "logical_anomalies/079.png",
+      "score": 0.19796495139598846
+    },
+    {
+      "path": "logical_anomalies/098.png",
+      "score": 0.19829517888261916
+    },
+    {
+      "path": "structural_anomalies/050.png",
+      "score": 0.1985350175106779
+    },
+    {
+      "path": "good/041.png",
+      "score": 0.19869163600688286
+    },
+    {
+      "path": "logical_anomalies/018.png",
+      "score": 0.19869282239295066
+    },
+    {
+      "path": "logical_anomalies/059.png",
+      "score": 0.19897030896328866
+    },
+    {
+      "path": "good/038.png",
+      "score": 0.19913719499364813
+    },
+    {
+      "path": "logical_anomalies/139.png",
+      "score": 0.1995140222158838
+    },
+    {
+      "path": "logical_anomalies/003.png",
+      "score": 0.19956363579060168
+    },
+    {
+      "path": "logical_anomalies/082.png",
+      "score": 0.19996281126712231
+    },
+    {
+      "path": "good/086.png",
+      "score": 0.20006570885790156
+    },
+    {
+      "path": "structural_anomalies/032.png",
+      "score": 0.2001812660947759
+    },
+    {
+      "path": "good/015.png",
+      "score": 0.20023026777074693
+    },
+    {
+      "path": "logical_anomalies/073.png",
+      "score": 0.20036312525576733
+    },
+    {
+      "path": "logical_anomalies/038.png",
+      "score": 0.20042297909868526
+    },
+    {
+      "path": "logical_anomalies/089.png",
+      "score": 0.20047095671613166
+    },
+    {
+      "path": "structural_anomalies/051.png",
+      "score": 0.20056359279663005
+    },
+    {
+      "path": "logical_anomalies/115.png",
+      "score": 0.20088259495319205
+    },
+    {
+      "path": "good/046.png",
+      "score": 0.20100746034307682
+    },
+    {
+      "path": "logical_anomalies/049.png",
+      "score": 0.20108850078379853
+    },
+    {
+      "path": "logical_anomalies/136.png",
+      "score": 0.20112465448836062
+    },
+    {
+      "path": "logical_anomalies/009.png",
+      "score": 0.2013283539959725
+    },
+    {
+      "path": "logical_anomalies/091.png",
+      "score": 0.20138009558332728
+    },
+    {
+      "path": "logical_anomalies/125.png",
+      "score": 0.20143859532285244
+    },
+    {
+      "path": "good/023.png",
+      "score": 0.20145040623685148
+    },
+    {
+      "path": "good/004.png",
+      "score": 0.20164744492540967
+    },
+    {
+      "path": "good/034.png",
+      "score": 0.201747088039175
+    },
+    {
+      "path": "logical_anomalies/041.png",
+      "score": 0.2018073226543183
+    },
+    {
+      "path": "logical_anomalies/092.png",
+      "score": 0.20183203480345138
+    },
+    {
+      "path": "structural_anomalies/020.png",
+      "score": 0.20186783183128276
+    },
+    {
+      "path": "logical_anomalies/054.png",
+      "score": 0.20188500050534594
+    },
+    {
+      "path": "logical_anomalies/109.png",
+      "score": 0.20190213335321305
+    },
+    {
+      "path": "logical_anomalies/046.png",
+      "score": 0.20226989686489105
+    },
+    {
+      "path": "good/063.png",
+      "score": 0.20251139935026777
+    },
+    {
+      "path": "good/088.png",
+      "score": 0.2025969697439924
+    },
+    {
+      "path": "good/007.png",
+      "score": 0.20305956392846208
+    },
+    {
+      "path": "logical_anomalies/076.png",
+      "score": 0.20329156930142261
+    },
+    {
+      "path": "logical_anomalies/075.png",
+      "score": 0.20380380400951872
+    },
+    {
+      "path": "good/020.png",
+      "score": 0.20463219950807857
+    },
+    {
+      "path": "logical_anomalies/052.png",
+      "score": 0.20667226105294328
+    },
+    {
+      "path": "logical_anomalies/084.png",
+      "score": 0.2068368209169266
+    },
+    {
+      "path": "logical_anomalies/058.png",
+      "score": 0.20708265995725672
+    },
+    {
+      "path": "logical_anomalies/101.png",
+      "score": 0.20733105755866843
+    },
+    {
+      "path": "good/081.png",
+      "score": 0.20798932935329192
+    },
+    {
+      "path": "logical_anomalies/002.png",
+      "score": 0.2081766632643152
+    },
+    {
+      "path": "logical_anomalies/117.png",
+      "score": 0.20853916317858595
+    },
+    {
+      "path": "logical_anomalies/051.png",
+      "score": 0.20869116865574044
+    },
+    {
+      "path": "structural_anomalies/087.png",
+      "score": 0.2088384063954049
+    },
+    {
+      "path": "good/053.png",
+      "score": 0.20984288637942455
+    },
+    {
+      "path": "logical_anomalies/005.png",
+      "score": 0.21001779303905813
+    },
+    {
+      "path": "logical_anomalies/140.png",
+      "score": 0.2108552725391185
+    },
+    {
+      "path": "logical_anomalies/006.png",
+      "score": 0.2113745573987352
+    },
+    {
+      "path": "logical_anomalies/042.png",
+      "score": 0.21147466752123326
+    },
+    {
+      "path": "good/025.png",
+      "score": 0.21171114799824167
+    },
+    {
+      "path": "logical_anomalies/063.png",
+      "score": 0.21185991770409524
+    },
+    {
+      "path": "structural_anomalies/060.png",
+      "score": 0.21209444929944707
+    },
+    {
+      "path": "good/003.png",
+      "score": 0.21246025029649127
+    },
+    {
+      "path": "logical_anomalies/010.png",
+      "score": 0.21257138220553704
+    },
+    {
+      "path": "logical_anomalies/047.png",
+      "score": 0.21271244674286943
+    },
+    {
+      "path": "structural_anomalies/031.png",
+      "score": 0.21415913136715584
+    },
+    {
+      "path": "structural_anomalies/067.png",
+      "score": 0.2142898066246763
+    },
+    {
+      "path": "logical_anomalies/061.png",
+      "score": 0.21651853303960028
+    },
+    {
+      "path": "logical_anomalies/131.png",
+      "score": 0.21692138244497014
+    },
+    {
+      "path": "structural_anomalies/022.png",
+      "score": 0.2172445445618731
+    },
+    {
+      "path": "structural_anomalies/005.png",
+      "score": 0.21769331110284684
+    },
+    {
+      "path": "structural_anomalies/085.png",
+      "score": 0.21829353938711452
+    },
+    {
+      "path": "logical_anomalies/004.png",
+      "score": 0.21852416529300364
+    },
+    {
+      "path": "structural_anomalies/072.png",
+      "score": 0.21874785645210998
+    },
+    {
+      "path": "logical_anomalies/062.png",
+      "score": 0.21895561700171612
+    },
+    {
+      "path": "structural_anomalies/084.png",
+      "score": 0.2193251813345767
+    },
+    {
+      "path": "logical_anomalies/102.png",
+      "score": 0.22062923648255936
+    },
+    {
+      "path": "logical_anomalies/110.png",
+      "score": 0.22083410779212384
+    },
+    {
+      "path": "logical_anomalies/097.png",
+      "score": 0.2210066797251397
+    },
+    {
+      "path": "logical_anomalies/070.png",
+      "score": 0.22273106492580252
+    },
+    {
+      "path": "logical_anomalies/112.png",
+      "score": 0.22288095221874563
+    },
+    {
+      "path": "logical_anomalies/060.png",
+      "score": 0.22363728665290994
+    },
+    {
+      "path": "logical_anomalies/127.png",
+      "score": 0.2237305720435812
+    },
+    {
+      "path": "logical_anomalies/068.png",
+      "score": 0.2248292568516224
+    },
+    {
+      "path": "structural_anomalies/092.png",
+      "score": 0.22488878825877576
+    },
+    {
+      "path": "logical_anomalies/071.png",
+      "score": 0.22503764800568846
+    },
+    {
+      "path": "logical_anomalies/064.png",
+      "score": 0.2251964046600017
+    },
+    {
+      "path": "structural_anomalies/026.png",
+      "score": 0.22596658417519103
+    },
+    {
+      "path": "logical_anomalies/066.png",
+      "score": 0.2262240835326783
+    },
+    {
+      "path": "logical_anomalies/087.png",
+      "score": 0.22712429406795095
+    },
+    {
+      "path": "logical_anomalies/001.png",
+      "score": 0.2272336311796878
+    },
+    {
+      "path": "logical_anomalies/093.png",
+      "score": 0.22727116276609136
+    },
+    {
+      "path": "structural_anomalies/086.png",
+      "score": 0.22793833784600523
+    },
+    {
+      "path": "logical_anomalies/114.png",
+      "score": 0.2285895103469808
+    },
+    {
+      "path": "structural_anomalies/021.png",
+      "score": 0.22897598115687676
+    },
+    {
+      "path": "logical_anomalies/007.png",
+      "score": 0.23190736865743677
+    },
+    {
+      "path": "structural_anomalies/074.png",
+      "score": 0.23491429172931833
+    },
+    {
+      "path": "logical_anomalies/000.png",
+      "score": 0.23553982281938513
+    },
+    {
+      "path": "logical_anomalies/118.png",
+      "score": 0.23565061961082703
+    },
+    {
+      "path": "logical_anomalies/067.png",
+      "score": 0.23579970446038753
+    },
+    {
+      "path": "structural_anomalies/091.png",
+      "score": 0.235864742322171
+    },
+    {
+      "path": "structural_anomalies/014.png",
+      "score": 0.23839487230524103
+    },
+    {
+      "path": "structural_anomalies/017.png",
+      "score": 0.23855709046759505
+    },
+    {
+      "path": "structural_anomalies/075.png",
+      "score": 0.24058519240389478
+    },
+    {
+      "path": "structural_anomalies/093.png",
+      "score": 0.24220629068131141
+    },
+    {
+      "path": "logical_anomalies/069.png",
+      "score": 0.24312781526687297
+    },
+    {
+      "path": "structural_anomalies/070.png",
+      "score": 0.24409444122872453
+    },
+    {
+      "path": "logical_anomalies/008.png",
+      "score": 0.24516116019259107
+    },
+    {
+      "path": "structural_anomalies/018.png",
+      "score": 0.24620256779041697
+    },
+    {
+      "path": "logical_anomalies/065.png",
+      "score": 0.24622611923420684
+    },
+    {
+      "path": "structural_anomalies/077.png",
+      "score": 0.24796931794349183
+    },
+    {
+      "path": "good/092.png",
+      "score": 0.24956815610540675
+    },
+    {
+      "path": "structural_anomalies/003.png",
+      "score": 0.2496869887443299
+    },
+    {
+      "path": "logical_anomalies/057.png",
+      "score": 0.2500334683250874
+    },
+    {
+      "path": "structural_anomalies/006.png",
+      "score": 0.25309603835674044
+    },
+    {
+      "path": "structural_anomalies/023.png",
+      "score": 0.254343329591954
+    },
+    {
+      "path": "structural_anomalies/069.png",
+      "score": 0.2549677056835053
+    },
+    {
+      "path": "structural_anomalies/066.png",
+      "score": 0.2581091063453796
+    },
+    {
+      "path": "logical_anomalies/094.png",
+      "score": 0.25943496030695895
+    },
+    {
+      "path": "structural_anomalies/010.png",
+      "score": 0.26675800852319026
+    },
+    {
+      "path": "logical_anomalies/032.png",
+      "score": 0.2682441980280775
+    },
+    {
+      "path": "structural_anomalies/065.png",
+      "score": 0.26884256715470173
+    },
+    {
+      "path": "structural_anomalies/030.png",
+      "score": 0.2698810423942322
+    },
+    {
+      "path": "structural_anomalies/024.png",
+      "score": 0.2701853957582027
+    },
+    {
+      "path": "logical_anomalies/108.png",
+      "score": 0.27145202235972626
+    },
+    {
+      "path": "structural_anomalies/004.png",
+      "score": 0.2716919608572696
+    },
+    {
+      "path": "logical_anomalies/095.png",
+      "score": 0.2725307120287672
+    },
+    {
+      "path": "logical_anomalies/031.png",
+      "score": 0.2738804360653492
+    },
+    {
+      "path": "structural_anomalies/073.png",
+      "score": 0.27504545957484144
+    },
+    {
+      "path": "structural_anomalies/033.png",
+      "score": 0.27937094518478883
+    },
+    {
+      "path": "logical_anomalies/011.png",
+      "score": 0.27954524406727327
+    },
+    {
+      "path": "logical_anomalies/027.png",
+      "score": 0.2804590454126926
+    },
+    {
+      "path": "logical_anomalies/035.png",
+      "score": 0.2823510553608549
+    },
+    {
+      "path": "logical_anomalies/028.png",
+      "score": 0.28259839719914376
+    },
+    {
+      "path": "structural_anomalies/082.png",
+      "score": 0.28309441183475736
+    },
+    {
+      "path": "logical_anomalies/025.png",
+      "score": 0.2850625083801594
+    },
+    {
+      "path": "structural_anomalies/080.png",
+      "score": 0.2850703089795214
+    },
+    {
+      "path": "structural_anomalies/079.png",
+      "score": 0.28537645270215706
+    },
+    {
+      "path": "structural_anomalies/041.png",
+      "score": 0.28758514942006863
+    },
+    {
+      "path": "logical_anomalies/034.png",
+      "score": 0.29221448429087377
+    },
+    {
+      "path": "logical_anomalies/026.png",
+      "score": 0.2936340786041097
+    },
+    {
+      "path": "structural_anomalies/028.png",
+      "score": 0.2937638756442577
+    },
+    {
+      "path": "logical_anomalies/024.png",
+      "score": 0.295120026202912
+    },
+    {
+      "path": "logical_anomalies/030.png",
+      "score": 0.29574358241355164
+    },
+    {
+      "path": "logical_anomalies/086.png",
+      "score": 0.2961960200299608
+    },
+    {
+      "path": "structural_anomalies/027.png",
+      "score": 0.29623463432839575
+    },
+    {
+      "path": "structural_anomalies/015.png",
+      "score": 0.2974637451958149
+    },
+    {
+      "path": "logical_anomalies/029.png",
+      "score": 0.300426813516211
+    },
+    {
+      "path": "logical_anomalies/055.png",
+      "score": 0.30047342751888517
+    },
+    {
+      "path": "logical_anomalies/033.png",
+      "score": 0.3102924817420067
+    },
+    {
+      "path": "logical_anomalies/106.png",
+      "score": 0.3105482319568066
+    },
+    {
+      "path": "structural_anomalies/038.png",
+      "score": 0.31066177119600014
+    },
+    {
+      "path": "structural_anomalies/029.png",
+      "score": 0.31214696010376547
+    },
+    {
+      "path": "structural_anomalies/043.png",
+      "score": 0.3140913850449501
+    },
+    {
+      "path": "structural_anomalies/039.png",
+      "score": 0.31426450071182654
+    },
+    {
+      "path": "structural_anomalies/047.png",
+      "score": 0.3154985064521749
+    },
+    {
+      "path": "structural_anomalies/076.png",
+      "score": 0.31659965248818095
+    },
+    {
+      "path": "structural_anomalies/042.png",
+      "score": 0.31864521541494006
+    },
+    {
+      "path": "structural_anomalies/040.png",
+      "score": 0.3238895250127671
+    },
+    {
+      "path": "structural_anomalies/068.png",
+      "score": 0.3245222733375874
+    },
+    {
+      "path": "structural_anomalies/025.png",
+      "score": 0.3252693681006736
+    },
+    {
+      "path": "structural_anomalies/083.png",
+      "score": 0.33190926941151316
+    },
+    {
+      "path": "structural_anomalies/011.png",
+      "score": 0.3346569851991978
+    },
+    {
+      "path": "structural_anomalies/002.png",
+      "score": 0.33474972336850267
+    },
+    {
+      "path": "structural_anomalies/088.png",
+      "score": 0.33624635097828315
+    },
+    {
+      "path": "logical_anomalies/088.png",
+      "score": 0.33711166267699383
+    },
+    {
+      "path": "structural_anomalies/089.png",
+      "score": 0.33957390962763034
+    },
+    {
+      "path": "structural_anomalies/007.png",
+      "score": 0.346726360156181
+    },
+    {
+      "path": "structural_anomalies/081.png",
+      "score": 0.34716222641315864
+    },
+    {
+      "path": "structural_anomalies/009.png",
+      "score": 0.3473668542314083
+    },
+    {
+      "path": "structural_anomalies/000.png",
+      "score": 0.3514621289486581
+    },
+    {
+      "path": "logical_anomalies/113.png",
+      "score": 0.356373685471555
+    },
+    {
+      "path": "structural_anomalies/001.png",
+      "score": 0.36546174008795557
+    },
+    {
+      "path": "structural_anomalies/013.png",
+      "score": 0.3687969249613742
+    },
+    {
+      "path": "structural_anomalies/071.png",
+      "score": 0.37022169124572835
+    },
+    {
+      "path": "structural_anomalies/019.png",
+      "score": 0.37321816733542906
+    },
+    {
+      "path": "structural_anomalies/012.png",
+      "score": 0.3841558390475334
+    },
+    {
+      "path": "structural_anomalies/078.png",
+      "score": 0.3842776360663962
+    },
+    {
+      "path": "logical_anomalies/105.png",
+      "score": 0.3932767802096428
+    },
+    {
+      "path": "structural_anomalies/008.png",
+      "score": 0.42698490809887013
+    },
+    {
+      "path": "structural_anomalies/064.png",
+      "score": 0.43781271957336587
+    },
+    {
+      "path": "logical_anomalies/090.png",
+      "score": 0.44414021803977644
+    },
+    {
+      "path": "structural_anomalies/049.png",
+      "score": 0.4898462929624192
+    }
+  ],
+  "pushpins": [
+    {
+      "path": "structural_anomalies/079.png",
+      "score": 0.16444996075752455
+    },
+    {
+      "path": "good/019.png",
+      "score": 0.16864754985540342
+    },
+    {
+      "path": "good/134.png",
+      "score": 0.16978117250479186
+    },
+    {
+      "path": "structural_anomalies/069.png",
+      "score": 0.17005657270932809
+    },
+    {
+      "path": "logical_anomalies/084.png",
+      "score": 0.17220470194633192
+    },
+    {
+      "path": "good/042.png",
+      "score": 0.17265118047212943
+    },
+    {
+      "path": "logical_anomalies/065.png",
+      "score": 0.17274958200943777
+    },
+    {
+      "path": "logical_anomalies/082.png",
+      "score": 0.17394374349178413
+    },
+    {
+      "path": "logical_anomalies/047.png",
+      "score": 0.1740539754048372
+    },
+    {
+      "path": "logical_anomalies/017.png",
+      "score": 0.17415321752046928
+    },
+    {
+      "path": "good/026.png",
+      "score": 0.1753135778200932
+    },
+    {
+      "path": "good/047.png",
+      "score": 0.17554919192424187
+    },
+    {
+      "path": "structural_anomalies/002.png",
+      "score": 0.17567934630773005
+    },
+    {
+      "path": "logical_anomalies/054.png",
+      "score": 0.17597993711630502
+    },
+    {
+      "path": "structural_anomalies/039.png",
+      "score": 0.17599553366502127
+    },
+    {
+      "path": "good/041.png",
+      "score": 0.1764854601560495
+    },
+    {
+      "path": "logical_anomalies/080.png",
+      "score": 0.1767158214098368
+    },
+    {
+      "path": "good/073.png",
+      "score": 0.17703617345064115
+    },
+    {
+      "path": "good/102.png",
+      "score": 0.177037592117603
+    },
+    {
+      "path": "structural_anomalies/063.png",
+      "score": 0.17714614707690018
+    },
+    {
+      "path": "good/094.png",
+      "score": 0.17749511278592622
+    },
+    {
+      "path": "logical_anomalies/000.png",
+      "score": 0.17751349394138044
+    },
+    {
+      "path": "good/005.png",
+      "score": 0.17789500531477806
+    },
+    {
+      "path": "structural_anomalies/077.png",
+      "score": 0.17825178687389082
+    },
+    {
+      "path": "good/118.png",
+      "score": 0.17833950160405573
+    },
+    {
+      "path": "good/095.png",
+      "score": 0.1784874445352799
+    },
+    {
+      "path": "good/039.png",
+      "score": 0.1785863492733393
+    },
+    {
+      "path": "structural_anomalies/018.png",
+      "score": 0.17911985249091417
+    },
+    {
+      "path": "logical_anomalies/045.png",
+      "score": 0.17921298130964622
+    },
+    {
+      "path": "logical_anomalies/028.png",
+      "score": 0.17938598417318785
+    },
+    {
+      "path": "logical_anomalies/014.png",
+      "score": 0.1795891454586616
+    },
+    {
+      "path": "good/024.png",
+      "score": 0.17975042034418154
+    },
+    {
+      "path": "logical_anomalies/090.png",
+      "score": 0.17988675985580835
+    },
+    {
+      "path": "good/065.png",
+      "score": 0.18005161751539278
+    },
+    {
+      "path": "logical_anomalies/034.png",
+      "score": 0.18037436329401457
+    },
+    {
+      "path": "good/113.png",
+      "score": 0.18044764338395533
+    },
+    {
+      "path": "logical_anomalies/087.png",
+      "score": 0.18058001078092134
+    },
+    {
+      "path": "structural_anomalies/031.png",
+      "score": 0.1806427354996021
+    },
+    {
+      "path": "structural_anomalies/067.png",
+      "score": 0.18095867985334152
+    },
+    {
+      "path": "good/046.png",
+      "score": 0.1811042634340433
+    },
+    {
+      "path": "good/054.png",
+      "score": 0.18112120452599648
+    },
+    {
+      "path": "structural_anomalies/066.png",
+      "score": 0.18124908017806518
+    },
+    {
+      "path": "structural_anomalies/020.png",
+      "score": 0.18204508874660882
+    },
+    {
+      "path": "good/078.png",
+      "score": 0.18219970816220993
+    },
+    {
+      "path": "structural_anomalies/048.png",
+      "score": 0.1825979252656301
+    },
+    {
+      "path": "logical_anomalies/005.png",
+      "score": 0.18259863631847578
+    },
+    {
+      "path": "logical_anomalies/089.png",
+      "score": 0.18267920192999718
+    },
+    {
+      "path": "logical_anomalies/085.png",
+      "score": 0.182681686603106
+    },
+    {
+      "path": "good/093.png",
+      "score": 0.1827754726012548
+    },
+    {
+      "path": "logical_anomalies/043.png",
+      "score": 0.18282384253465211
+    },
+    {
+      "path": "good/035.png",
+      "score": 0.18286927655721322
+    },
+    {
+      "path": "good/084.png",
+      "score": 0.1829891285071006
+    },
+    {
+      "path": "good/016.png",
+      "score": 0.18304704015071577
+    },
+    {
+      "path": "logical_anomalies/040.png",
+      "score": 0.1831000233307863
+    },
+    {
+      "path": "good/001.png",
+      "score": 0.183134851929469
+    },
+    {
+      "path": "good/082.png",
+      "score": 0.18314173970467004
+    },
+    {
+      "path": "logical_anomalies/052.png",
+      "score": 0.18320794518177325
+    },
+    {
+      "path": "good/049.png",
+      "score": 0.1832583187482296
+    },
+    {
+      "path": "good/111.png",
+      "score": 0.18330479317750686
+    },
+    {
+      "path": "structural_anomalies/033.png",
+      "score": 0.1834650192505274
+    },
+    {
+      "path": "good/053.png",
+      "score": 0.18374980986118317
+    },
+    {
+      "path": "good/077.png",
+      "score": 0.18396782416563767
+    },
+    {
+      "path": "structural_anomalies/015.png",
+      "score": 0.1840033512084912
+    },
+    {
+      "path": "logical_anomalies/072.png",
+      "score": 0.18409028687538245
+    },
+    {
+      "path": "logical_anomalies/038.png",
+      "score": 0.1843888832208438
+    },
+    {
+      "path": "structural_anomalies/025.png",
+      "score": 0.18447680580310333
+    },
+    {
+      "path": "logical_anomalies/006.png",
+      "score": 0.18453148274849623
+    },
+    {
+      "path": "good/087.png",
+      "score": 0.1846737414598465
+    },
+    {
+      "path": "logical_anomalies/002.png",
+      "score": 0.18471184143653283
+    },
+    {
+      "path": "good/074.png",
+      "score": 0.18487447462020776
+    },
+    {
+      "path": "good/109.png",
+      "score": 0.18494381201572907
+    },
+    {
+      "path": "logical_anomalies/035.png",
+      "score": 0.18528041319969374
+    },
+    {
+      "path": "logical_anomalies/016.png",
+      "score": 0.18528481630178598
+    },
+    {
+      "path": "structural_anomalies/080.png",
+      "score": 0.18529241665815696
+    },
+    {
+      "path": "structural_anomalies/008.png",
+      "score": 0.18533763747948867
+    },
+    {
+      "path": "good/070.png",
+      "score": 0.18535318741431603
+    },
+    {
+      "path": "good/124.png",
+      "score": 0.1856628656387329
+    },
+    {
+      "path": "structural_anomalies/076.png",
+      "score": 0.18574360395089173
+    },
+    {
+      "path": "good/091.png",
+      "score": 0.1857718764207302
+    },
+    {
+      "path": "structural_anomalies/021.png",
+      "score": 0.1858366941794371
+    },
+    {
+      "path": "good/066.png",
+      "score": 0.18601863965010032
+    },
+    {
+      "path": "good/010.png",
+      "score": 0.18643444852951246
+    },
+    {
+      "path": "logical_anomalies/073.png",
+      "score": 0.18643495325858778
+    },
+    {
+      "path": "logical_anomalies/009.png",
+      "score": 0.18648966459127572
+    },
+    {
+      "path": "good/092.png",
+      "score": 0.186650072152798
+    },
+    {
+      "path": "logical_anomalies/075.png",
+      "score": 0.18668284248083067
+    },
+    {
+      "path": "good/003.png",
+      "score": 0.1866857504997498
+    },
+    {
+      "path": "logical_anomalies/049.png",
+      "score": 0.18680282739492562
+    },
+    {
+      "path": "structural_anomalies/051.png",
+      "score": 0.18699902028609544
+    },
+    {
+      "path": "good/063.png",
+      "score": 0.1870767565873953
+    },
+    {
+      "path": "good/028.png",
+      "score": 0.1871438878468978
+    },
+    {
+      "path": "good/059.png",
+      "score": 0.1873578192331852
+    },
+    {
+      "path": "good/058.png",
+      "score": 0.1873737646219058
+    },
+    {
+      "path": "good/048.png",
+      "score": 0.1874401045915408
+    },
+    {
+      "path": "good/136.png",
+      "score": 0.18748582326448882
+    },
+    {
+      "path": "structural_anomalies/068.png",
+      "score": 0.18764394865586206
+    },
+    {
+      "path": "good/029.png",
+      "score": 0.18772081151986733
+    },
+    {
+      "path": "good/110.png",
+      "score": 0.18776928767179832
+    },
+    {
+      "path": "logical_anomalies/069.png",
+      "score": 0.18802881355469042
+    },
+    {
+      "path": "logical_anomalies/068.png",
+      "score": 0.18830046363365957
+    },
+    {
+      "path": "logical_anomalies/050.png",
+      "score": 0.18831387009376135
+    },
+    {
+      "path": "logical_anomalies/029.png",
+      "score": 0.18838417109770653
+    },
+    {
+      "path": "good/020.png",
+      "score": 0.1886282998781938
+    },
+    {
+      "path": "good/000.png",
+      "score": 0.18871275201821938
+    },
+    {
+      "path": "logical_anomalies/056.png",
+      "score": 0.18899925091327766
+    },
+    {
+      "path": "structural_anomalies/044.png",
+      "score": 0.18903264517967516
+    },
+    {
+      "path": "good/112.png",
+      "score": 0.1890750221717052
+    },
+    {
+      "path": "good/013.png",
+      "score": 0.1891442766556373
+    },
+    {
+      "path": "logical_anomalies/064.png",
+      "score": 0.1892264110919757
+    },
+    {
+      "path": "good/131.png",
+      "score": 0.1892421020147128
+    },
+    {
+      "path": "good/104.png",
+      "score": 0.18949988866463685
+    },
+    {
+      "path": "good/085.png",
+      "score": 0.18950906090247324
+    },
+    {
+      "path": "good/075.png",
+      "score": 0.18953660818246695
+    },
+    {
+      "path": "good/128.png",
+      "score": 0.18992686691956642
+    },
+    {
+      "path": "structural_anomalies/016.png",
+      "score": 0.19007891301925367
+    },
+    {
+      "path": "good/097.png",
+      "score": 0.19011615942686033
+    },
+    {
+      "path": "good/067.png",
+      "score": 0.1902670287168943
+    },
+    {
+      "path": "logical_anomalies/074.png",
+      "score": 0.19043410359284815
+    },
+    {
+      "path": "logical_anomalies/012.png",
+      "score": 0.19045212100713682
+    },
+    {
+      "path": "logical_anomalies/081.png",
+      "score": 0.19075155945924613
+    },
+    {
+      "path": "structural_anomalies/011.png",
+      "score": 0.19076407146759522
+    },
+    {
+      "path": "logical_anomalies/066.png",
+      "score": 0.19105780583161575
+    },
+    {
+      "path": "logical_anomalies/001.png",
+      "score": 0.19141265673515123
+    },
+    {
+      "path": "logical_anomalies/041.png",
+      "score": 0.1914411187171936
+    },
+    {
+      "path": "good/098.png",
+      "score": 0.1914516377907533
+    },
+    {
+      "path": "good/012.png",
+      "score": 0.19158301254113516
+    },
+    {
+      "path": "structural_anomalies/003.png",
+      "score": 0.19190276127595168
+    },
+    {
+      "path": "logical_anomalies/083.png",
+      "score": 0.19194480127249008
+    },
+    {
+      "path": "good/130.png",
+      "score": 0.1920658888725134
+    },
+    {
+      "path": "structural_anomalies/005.png",
+      "score": 0.1920738969093714
+    },
+    {
+      "path": "good/044.png",
+      "score": 0.19213014115125704
+    },
+    {
+      "path": "good/081.png",
+      "score": 0.19215367619807905
+    },
+    {
+      "path": "good/108.png",
+      "score": 0.19224495383409354
+    },
+    {
+      "path": "good/100.png",
+      "score": 0.1923126207712369
+    },
+    {
+      "path": "good/116.png",
+      "score": 0.19231370511727455
+    },
+    {
+      "path": "good/123.png",
+      "score": 0.19245543426428086
+    },
+    {
+      "path": "logical_anomalies/033.png",
+      "score": 0.1925857070928965
+    },
+    {
+      "path": "logical_anomalies/071.png",
+      "score": 0.19263941775529814
+    },
+    {
+      "path": "logical_anomalies/051.png",
+      "score": 0.1926970940369826
+    },
+    {
+      "path": "good/119.png",
+      "score": 0.19270151662520874
+    },
+    {
+      "path": "good/060.png",
+      "score": 0.1928822642717606
+    },
+    {
+      "path": "structural_anomalies/007.png",
+      "score": 0.19289706532771772
+    },
+    {
+      "path": "logical_anomalies/036.png",
+      "score": 0.1928978122961827
+    },
+    {
+      "path": "logical_anomalies/053.png",
+      "score": 0.19314484909558907
+    },
+    {
+      "path": "good/057.png",
+      "score": 0.19314636710362557
+    },
+    {
+      "path": "structural_anomalies/024.png",
+      "score": 0.19321118027735978
+    },
+    {
+      "path": "good/088.png",
+      "score": 0.1932291396153279
+    },
+    {
+      "path": "good/030.png",
+      "score": 0.1933082124361625
+    },
+    {
+      "path": "good/033.png",
+      "score": 0.1933276103093074
+    },
+    {
+      "path": "good/061.png",
+      "score": 0.19332819909621507
+    },
+    {
+      "path": "logical_anomalies/086.png",
+      "score": 0.19335583540109488
+    },
+    {
+      "path": "logical_anomalies/044.png",
+      "score": 0.19336767074389336
+    },
+    {
+      "path": "good/036.png",
+      "score": 0.19340619100974157
+    },
+    {
+      "path": "good/117.png",
+      "score": 0.1935237787472896
+    },
+    {
+      "path": "good/009.png",
+      "score": 0.19355304233538798
+    },
+    {
+      "path": "good/022.png",
+      "score": 0.19385493527620268
+    },
+    {
+      "path": "good/072.png",
+      "score": 0.19390743359541282
+    },
+    {
+      "path": "structural_anomalies/070.png",
+      "score": 0.19393663796094748
+    },
+    {
+      "path": "logical_anomalies/055.png",
+      "score": 0.19395497021002647
+    },
+    {
+      "path": "logical_anomalies/062.png",
+      "score": 0.19395936681674078
+    },
+    {
+      "path": "good/080.png",
+      "score": 0.19397568970154494
+    },
+    {
+      "path": "structural_anomalies/072.png",
+      "score": 0.19398974035030755
+    },
+    {
+      "path": "logical_anomalies/025.png",
+      "score": 0.1940036477186741
+    },
+    {
+      "path": "good/132.png",
+      "score": 0.19410846286859268
+    },
+    {
+      "path": "good/023.png",
+      "score": 0.19421393940081963
+    },
+    {
+      "path": "good/107.png",
+      "score": 0.1942495822142332
+    },
+    {
+      "path": "logical_anomalies/079.png",
+      "score": 0.1944901228715212
+    },
+    {
+      "path": "structural_anomalies/071.png",
+      "score": 0.19449306413149223
+    },
+    {
+      "path": "logical_anomalies/008.png",
+      "score": 0.1946822511844146
+    },
+    {
+      "path": "logical_anomalies/032.png",
+      "score": 0.19482959692294782
+    },
+    {
+      "path": "structural_anomalies/009.png",
+      "score": 0.19483296802410713
+    },
+    {
+      "path": "logical_anomalies/078.png",
+      "score": 0.19488999820672548
+    },
+    {
+      "path": "good/137.png",
+      "score": 0.1949358949294457
+    },
+    {
+      "path": "structural_anomalies/004.png",
+      "score": 0.19493933939016783
+    },
+    {
+      "path": "logical_anomalies/031.png",
+      "score": 0.19500588109860054
+    },
+    {
+      "path": "logical_anomalies/067.png",
+      "score": 0.19523310928772658
+    },
+    {
+      "path": "logical_anomalies/037.png",
+      "score": 0.19536871711413065
+    },
+    {
+      "path": "good/021.png",
+      "score": 0.19561431270379287
+    },
+    {
+      "path": "structural_anomalies/040.png",
+      "score": 0.19588576027980217
+    },
+    {
+      "path": "good/011.png",
+      "score": 0.19593525773439652
+    },
+    {
+      "path": "good/105.png",
+      "score": 0.19613730410734811
+    },
+    {
+      "path": "good/043.png",
+      "score": 0.1961582559041488
+    },
+    {
+      "path": "logical_anomalies/046.png",
+      "score": 0.1964243730673423
+    },
+    {
+      "path": "good/068.png",
+      "score": 0.19665763393426552
+    },
+    {
+      "path": "good/038.png",
+      "score": 0.1968100743416028
+    },
+    {
+      "path": "good/103.png",
+      "score": 0.19724085124639365
+    },
+    {
+      "path": "good/018.png",
+      "score": 0.19739229327593094
+    },
+    {
+      "path": "good/120.png",
+      "score": 0.19743954600431982
+    },
+    {
+      "path": "good/032.png",
+      "score": 0.19753142694632211
+    },
+    {
+      "path": "good/133.png",
+      "score": 0.19769564958719107
+    },
+    {
+      "path": "structural_anomalies/000.png",
+      "score": 0.19789180885522795
+    },
+    {
+      "path": "logical_anomalies/007.png",
+      "score": 0.19792627142025873
+    },
+    {
+      "path": "structural_anomalies/074.png",
+      "score": 0.19792966086130875
+    },
+    {
+      "path": "structural_anomalies/061.png",
+      "score": 0.19799240162739387
+    },
+    {
+      "path": "structural_anomalies/001.png",
+      "score": 0.19800402376896295
+    },
+    {
+      "path": "good/045.png",
+      "score": 0.19830481860882196
+    },
+    {
+      "path": "logical_anomalies/077.png",
+      "score": 0.19838737104183587
+    },
+    {
+      "path": "structural_anomalies/055.png",
+      "score": 0.19838847945898008
+    },
+    {
+      "path": "logical_anomalies/042.png",
+      "score": 0.1985140114258497
+    },
+    {
+      "path": "structural_anomalies/019.png",
+      "score": 0.19851574607384512
+    },
+    {
+      "path": "logical_anomalies/019.png",
+      "score": 0.1986586413322351
+    },
+    {
+      "path": "good/126.png",
+      "score": 0.1987669471746836
+    },
+    {
+      "path": "logical_anomalies/027.png",
+      "score": 0.19897536818797773
+    },
+    {
+      "path": "good/076.png",
+      "score": 0.19897916951240638
+    },
+    {
+      "path": "structural_anomalies/026.png",
+      "score": 0.19912704405112144
+    },
+    {
+      "path": "good/099.png",
+      "score": 0.19912851238862062
+    },
+    {
+      "path": "good/007.png",
+      "score": 0.1993082249775911
+    },
+    {
+      "path": "logical_anomalies/010.png",
+      "score": 0.19946708434667343
+    },
+    {
+      "path": "structural_anomalies/006.png",
+      "score": 0.19957167254044458
+    },
+    {
+      "path": "good/055.png",
+      "score": 0.1996620102570607
+    },
+    {
+      "path": "good/002.png",
+      "score": 0.19970262127044874
+    },
+    {
+      "path": "logical_anomalies/039.png",
+      "score": 0.19979666135249993
+    },
+    {
+      "path": "logical_anomalies/048.png",
+      "score": 0.19980494143107
+    },
+    {
+      "path": "structural_anomalies/017.png",
+      "score": 0.20001386870176363
+    },
+    {
+      "path": "logical_anomalies/003.png",
+      "score": 0.20011618236700693
+    },
+    {
+      "path": "good/083.png",
+      "score": 0.20013341498680604
+    },
+    {
+      "path": "structural_anomalies/073.png",
+      "score": 0.2002616219031505
+    },
+    {
+      "path": "structural_anomalies/065.png",
+      "score": 0.20062372929010636
+    },
+    {
+      "path": "structural_anomalies/054.png",
+      "score": 0.2006312303054027
+    },
+    {
+      "path": "good/050.png",
+      "score": 0.20080838447962052
+    },
+    {
+      "path": "good/051.png",
+      "score": 0.2009140111697026
+    },
+    {
+      "path": "structural_anomalies/075.png",
+      "score": 0.2014866624123011
+    },
+    {
+      "path": "structural_anomalies/010.png",
+      "score": 0.2014874544663307
+    },
+    {
+      "path": "good/031.png",
+      "score": 0.2015083814278627
+    },
+    {
+      "path": "logical_anomalies/063.png",
+      "score": 0.20172926516104966
+    },
+    {
+      "path": "structural_anomalies/042.png",
+      "score": 0.20176004828550878
+    },
+    {
+      "path": "good/027.png",
+      "score": 0.2018825052640377
+    },
+    {
+      "path": "structural_anomalies/014.png",
+      "score": 0.20191083313562933
+    },
+    {
+      "path": "structural_anomalies/035.png",
+      "score": 0.20204613567926946
+    },
+    {
+      "path": "good/037.png",
+      "score": 0.20227358967829973
+    },
+    {
+      "path": "good/089.png",
+      "score": 0.20228227629111364
+    },
+    {
+      "path": "good/062.png",
+      "score": 0.2024955493517411
+    },
+    {
+      "path": "good/040.png",
+      "score": 0.2026093113116729
+    },
+    {
+      "path": "good/064.png",
+      "score": 0.2026597085671547
+    },
+    {
+      "path": "good/096.png",
+      "score": 0.20287103492480058
+    },
+    {
+      "path": "good/114.png",
+      "score": 0.2031021481141066
+    },
+    {
+      "path": "good/086.png",
+      "score": 0.2031341214210559
+    },
+    {
+      "path": "structural_anomalies/027.png",
+      "score": 0.2031450214294287
+    },
+    {
+      "path": "good/079.png",
+      "score": 0.20317190770919508
+    },
+    {
+      "path": "good/006.png",
+      "score": 0.20317298632401687
+    },
+    {
+      "path": "logical_anomalies/030.png",
+      "score": 0.20318156939286453
+    },
+    {
+      "path": "good/069.png",
+      "score": 0.20334275105060676
+    },
+    {
+      "path": "good/052.png",
+      "score": 0.20344300529895684
+    },
+    {
+      "path": "structural_anomalies/013.png",
+      "score": 0.20352730040366834
+    },
+    {
+      "path": "logical_anomalies/011.png",
+      "score": 0.20358643776331192
+    },
+    {
+      "path": "structural_anomalies/078.png",
+      "score": 0.2036039580901464
+    },
+    {
+      "path": "structural_anomalies/030.png",
+      "score": 0.20384175464128837
+    },
+    {
+      "path": "good/122.png",
+      "score": 0.20418754754922327
+    },
+    {
+      "path": "good/135.png",
+      "score": 0.20423385768364638
+    },
+    {
+      "path": "structural_anomalies/060.png",
+      "score": 0.20433881152898836
+    },
+    {
+      "path": "good/090.png",
+      "score": 0.20435592493949792
+    },
+    {
+      "path": "logical_anomalies/015.png",
+      "score": 0.20455994055821344
+    },
+    {
+      "path": "structural_anomalies/038.png",
+      "score": 0.20474840777042586
+    },
+    {
+      "path": "good/017.png",
+      "score": 0.20493935468869331
+    },
+    {
+      "path": "good/071.png",
+      "score": 0.20495401743130806
+    },
+    {
+      "path": "logical_anomalies/004.png",
+      "score": 0.2052135433142002
+    },
+    {
+      "path": "structural_anomalies/053.png",
+      "score": 0.20541843275229135
+    },
+    {
+      "path": "logical_anomalies/088.png",
+      "score": 0.20574238017583504
+    },
+    {
+      "path": "good/129.png",
+      "score": 0.20600649752678016
+    },
+    {
+      "path": "logical_anomalies/024.png",
+      "score": 0.20611545978448328
+    },
+    {
+      "path": "logical_anomalies/070.png",
+      "score": 0.2061621584953406
+    },
+    {
+      "path": "structural_anomalies/037.png",
+      "score": 0.20636103818049797
+    },
+    {
+      "path": "good/034.png",
+      "score": 0.20642614784913185
+    },
+    {
+      "path": "good/014.png",
+      "score": 0.2072238822778066
+    },
+    {
+      "path": "logical_anomalies/076.png",
+      "score": 0.20724861094584832
+    },
+    {
+      "path": "structural_anomalies/043.png",
+      "score": 0.20733309441652054
+    },
+    {
+      "path": "good/056.png",
+      "score": 0.20733976784424904
+    },
+    {
+      "path": "structural_anomalies/062.png",
+      "score": 0.2074213066162207
+    },
+    {
+      "path": "logical_anomalies/026.png",
+      "score": 0.20762972915783906
+    },
+    {
+      "path": "structural_anomalies/032.png",
+      "score": 0.20764141166821504
+    },
+    {
+      "path": "good/015.png",
+      "score": 0.208700642371789
+    },
+    {
+      "path": "logical_anomalies/021.png",
+      "score": 0.20896346523211554
+    },
+    {
+      "path": "good/004.png",
+      "score": 0.2092234866741376
+    },
+    {
+      "path": "logical_anomalies/023.png",
+      "score": 0.20939425283517593
+    },
+    {
+      "path": "structural_anomalies/041.png",
+      "score": 0.20978538386332682
+    },
+    {
+      "path": "logical_anomalies/020.png",
+      "score": 0.2100100211608104
+    },
+    {
+      "path": "structural_anomalies/023.png",
+      "score": 0.2101150590639848
+    },
+    {
+      "path": "structural_anomalies/029.png",
+      "score": 0.21067999456173334
+    },
+    {
+      "path": "structural_anomalies/049.png",
+      "score": 0.21100493463186118
+    },
+    {
+      "path": "good/025.png",
+      "score": 0.21119744808245927
+    },
+    {
+      "path": "structural_anomalies/012.png",
+      "score": 0.2115752555620976
+    },
+    {
+      "path": "good/008.png",
+      "score": 0.21166199331100172
+    },
+    {
+      "path": "good/115.png",
+      "score": 0.2121198077996572
+    },
+    {
+      "path": "logical_anomalies/013.png",
+      "score": 0.21426600370651636
+    },
+    {
+      "path": "structural_anomalies/028.png",
+      "score": 0.21437651759538895
+    },
+    {
+      "path": "good/127.png",
+      "score": 0.2150461257268221
+    },
+    {
+      "path": "structural_anomalies/052.png",
+      "score": 0.21664690092588082
+    },
+    {
+      "path": "good/106.png",
+      "score": 0.21703435748051375
+    },
+    {
+      "path": "good/101.png",
+      "score": 0.2174417556096346
+    },
+    {
+      "path": "good/125.png",
+      "score": 0.21820877224971086
+    },
+    {
+      "path": "structural_anomalies/036.png",
+      "score": 0.218413844704628
+    },
+    {
+      "path": "logical_anomalies/018.png",
+      "score": 0.21957822220447737
+    },
+    {
+      "path": "structural_anomalies/034.png",
+      "score": 0.22011319108498403
+    },
+    {
+      "path": "structural_anomalies/022.png",
+      "score": 0.22182874037669256
+    },
+    {
+      "path": "logical_anomalies/022.png",
+      "score": 0.2236588532343889
+    },
+    {
+      "path": "good/121.png",
+      "score": 0.225087393170748
+    },
+    {
+      "path": "structural_anomalies/064.png",
+      "score": 0.22523299127052993
+    },
+    {
+      "path": "structural_anomalies/057.png",
+      "score": 0.22972758802083823
+    },
+    {
+      "path": "structural_anomalies/045.png",
+      "score": 0.23173648233597094
+    },
+    {
+      "path": "logical_anomalies/057.png",
+      "score": 0.25911597449045914
+    },
+    {
+      "path": "structural_anomalies/046.png",
+      "score": 0.26174343702120656
+    },
+    {
+      "path": "logical_anomalies/061.png",
+      "score": 0.2650655821347848
+    },
+    {
+      "path": "logical_anomalies/059.png",
+      "score": 0.2658842236567766
+    },
+    {
+      "path": "logical_anomalies/060.png",
+      "score": 0.2696217084542299
+    },
+    {
+      "path": "logical_anomalies/058.png",
+      "score": 0.27013251414665806
+    },
+    {
+      "path": "structural_anomalies/047.png",
+      "score": 0.2895409522148279
+    },
+    {
+      "path": "structural_anomalies/058.png",
+      "score": 0.2924617169759212
+    },
+    {
+      "path": "structural_anomalies/056.png",
+      "score": 0.32659945159386367
+    },
+    {
+      "path": "structural_anomalies/050.png",
+      "score": 0.5039072846755003
+    },
+    {
+      "path": "structural_anomalies/059.png",
+      "score": 0.5198147465021182
+    }
+  ],
+  "screw_bag": [
+    {
+      "path": "logical_anomalies/017.png",
+      "score": 0.20382052879123128
+    },
+    {
+      "path": "logical_anomalies/115.png",
+      "score": 0.2048504510346581
+    },
+    {
+      "path": "logical_anomalies/032.png",
+      "score": 0.2084090126787915
+    },
+    {
+      "path": "logical_anomalies/099.png",
+      "score": 0.20952250370207956
+    },
+    {
+      "path": "logical_anomalies/080.png",
+      "score": 0.20956831556909225
+    },
+    {
+      "path": "good/037.png",
+      "score": 0.2104942675899057
+    },
+    {
+      "path": "good/034.png",
+      "score": 0.21070171059931025
+    },
+    {
+      "path": "logical_anomalies/008.png",
+      "score": 0.21109298485166886
+    },
+    {
+      "path": "structural_anomalies/019.png",
+      "score": 0.21125185621135376
+    },
+    {
+      "path": "logical_anomalies/037.png",
+      "score": 0.21130655311486302
+    },
+    {
+      "path": "good/102.png",
+      "score": 0.21213428237858942
+    },
+    {
+      "path": "good/091.png",
+      "score": 0.21231100839727066
+    },
+    {
+      "path": "logical_anomalies/047.png",
+      "score": 0.21252883094198563
+    },
+    {
+      "path": "logical_anomalies/004.png",
+      "score": 0.21255796008250294
+    },
+    {
+      "path": "logical_anomalies/038.png",
+      "score": 0.21288627999670365
+    },
+    {
+      "path": "logical_anomalies/039.png",
+      "score": 0.21317128223531387
+    },
+    {
+      "path": "logical_anomalies/011.png",
+      "score": 0.21370554233298583
+    },
+    {
+      "path": "structural_anomalies/038.png",
+      "score": 0.2141455964130514
+    },
+    {
+      "path": "logical_anomalies/009.png",
+      "score": 0.21416797182139227
+    },
+    {
+      "path": "good/106.png",
+      "score": 0.21426068596980152
+    },
+    {
+      "path": "good/036.png",
+      "score": 0.2143756133668563
+    },
+    {
+      "path": "good/116.png",
+      "score": 0.21504120704005747
+    },
+    {
+      "path": "good/114.png",
+      "score": 0.21512552131624782
+    },
+    {
+      "path": "logical_anomalies/016.png",
+      "score": 0.21527729709358776
+    },
+    {
+      "path": "logical_anomalies/024.png",
+      "score": 0.21569849331589305
+    },
+    {
+      "path": "good/026.png",
+      "score": 0.21587978654048023
+    },
+    {
+      "path": "good/051.png",
+      "score": 0.2159438505768776
+    },
+    {
+      "path": "structural_anomalies/041.png",
+      "score": 0.21609942220589695
+    },
+    {
+      "path": "logical_anomalies/056.png",
+      "score": 0.21611366377157323
+    },
+    {
+      "path": "logical_anomalies/031.png",
+      "score": 0.21616513807983959
+    },
+    {
+      "path": "logical_anomalies/014.png",
+      "score": 0.2164517251007697
+    },
+    {
+      "path": "logical_anomalies/079.png",
+      "score": 0.21653751897461274
+    },
+    {
+      "path": "good/097.png",
+      "score": 0.2165793824721785
+    },
+    {
+      "path": "logical_anomalies/075.png",
+      "score": 0.21667057275772095
+    },
+    {
+      "path": "logical_anomalies/111.png",
+      "score": 0.2170901473830728
+    },
+    {
+      "path": "structural_anomalies/005.png",
+      "score": 0.21710199336795247
+    },
+    {
+      "path": "logical_anomalies/132.png",
+      "score": 0.2176508706282167
+    },
+    {
+      "path": "good/057.png",
+      "score": 0.217860048308092
+    },
+    {
+      "path": "logical_anomalies/120.png",
+      "score": 0.21801911119152517
+    },
+    {
+      "path": "good/028.png",
+      "score": 0.2181275644723107
+    },
+    {
+      "path": "good/031.png",
+      "score": 0.2187262725304155
+    },
+    {
+      "path": "logical_anomalies/057.png",
+      "score": 0.21948551868691163
+    },
+    {
+      "path": "logical_anomalies/036.png",
+      "score": 0.21963231484679616
+    },
+    {
+      "path": "good/022.png",
+      "score": 0.21971223328043432
+    },
+    {
+      "path": "logical_anomalies/033.png",
+      "score": 0.21998794639811797
+    },
+    {
+      "path": "good/090.png",
+      "score": 0.22000671002794714
+    },
+    {
+      "path": "good/009.png",
+      "score": 0.22018823246745503
+    },
+    {
+      "path": "good/004.png",
+      "score": 0.2204759309397024
+    },
+    {
+      "path": "good/110.png",
+      "score": 0.22047744033967748
+    },
+    {
+      "path": "logical_anomalies/058.png",
+      "score": 0.22048069186070385
+    },
+    {
+      "path": "logical_anomalies/121.png",
+      "score": 0.2208697085871416
+    },
+    {
+      "path": "logical_anomalies/105.png",
+      "score": 0.22138593696496067
+    },
+    {
+      "path": "good/115.png",
+      "score": 0.22160594515940724
+    },
+    {
+      "path": "good/084.png",
+      "score": 0.22161898761987686
+    },
+    {
+      "path": "good/041.png",
+      "score": 0.22214152225676706
+    },
+    {
+      "path": "good/007.png",
+      "score": 0.22219387485700495
+    },
+    {
+      "path": "logical_anomalies/015.png",
+      "score": 0.22231394183986328
+    },
+    {
+      "path": "logical_anomalies/123.png",
+      "score": 0.22236733839792364
+    },
+    {
+      "path": "good/008.png",
+      "score": 0.22241978084339814
+    },
+    {
+      "path": "good/121.png",
+      "score": 0.22247707975261352
+    },
+    {
+      "path": "logical_anomalies/040.png",
+      "score": 0.22257331583429785
+    },
+    {
+      "path": "good/023.png",
+      "score": 0.22281927834538853
+    },
+    {
+      "path": "logical_anomalies/089.png",
+      "score": 0.22304384059765758
+    },
+    {
+      "path": "good/049.png",
+      "score": 0.22307952975525575
+    },
+    {
+      "path": "structural_anomalies/016.png",
+      "score": 0.22310935486765468
+    },
+    {
+      "path": "logical_anomalies/091.png",
+      "score": 0.22320782261736252
+    },
+    {
+      "path": "good/039.png",
+      "score": 0.22324100618853288
+    },
+    {
+      "path": "good/019.png",
+      "score": 0.22385073234053218
+    },
+    {
+      "path": "logical_anomalies/082.png",
+      "score": 0.2238556269337149
+    },
+    {
+      "path": "logical_anomalies/046.png",
+      "score": 0.22401926184401794
+    },
+    {
+      "path": "good/082.png",
+      "score": 0.22421702698749654
+    },
+    {
+      "path": "good/067.png",
+      "score": 0.224306501009885
+    },
+    {
+      "path": "logical_anomalies/096.png",
+      "score": 0.2243354311760734
+    },
+    {
+      "path": "good/073.png",
+      "score": 0.22446823514559688
+    },
+    {
+      "path": "good/105.png",
+      "score": 0.22447920765946894
+    },
+    {
+      "path": "structural_anomalies/054.png",
+      "score": 0.22471249629469478
+    },
+    {
+      "path": "good/060.png",
+      "score": 0.22476637801703284
+    },
+    {
+      "path": "good/089.png",
+      "score": 0.22537231883581946
+    },
+    {
+      "path": "good/100.png",
+      "score": 0.2254525931442485
+    },
+    {
+      "path": "good/062.png",
+      "score": 0.22554504345445073
+    },
+    {
+      "path": "logical_anomalies/122.png",
+      "score": 0.22598191131563747
+    },
+    {
+      "path": "logical_anomalies/006.png",
+      "score": 0.2260061519987443
+    },
+    {
+      "path": "logical_anomalies/028.png",
+      "score": 0.2260982871932142
+    },
+    {
+      "path": "good/098.png",
+      "score": 0.2261118910768453
+    },
+    {
+      "path": "logical_anomalies/118.png",
+      "score": 0.22627695255419789
+    },
+    {
+      "path": "structural_anomalies/055.png",
+      "score": 0.22630901415558421
+    },
+    {
+      "path": "logical_anomalies/022.png",
+      "score": 0.22632167795125177
+    },
+    {
+      "path": "logical_anomalies/027.png",
+      "score": 0.2263573219670969
+    },
+    {
+      "path": "logical_anomalies/095.png",
+      "score": 0.2264406514518401
+    },
+    {
+      "path": "logical_anomalies/081.png",
+      "score": 0.22694065246511907
+    },
+    {
+      "path": "good/094.png",
+      "score": 0.2271990197546342
+    },
+    {
+      "path": "good/006.png",
+      "score": 0.2272116292048903
+    },
+    {
+      "path": "logical_anomalies/086.png",
+      "score": 0.22727459362324545
+    },
+    {
+      "path": "good/042.png",
+      "score": 0.22737236759241888
+    },
+    {
+      "path": "good/078.png",
+      "score": 0.22755114295903375
+    },
+    {
+      "path": "logical_anomalies/068.png",
+      "score": 0.22774057879167445
+    },
+    {
+      "path": "structural_anomalies/008.png",
+      "score": 0.2279590385801652
+    },
+    {
+      "path": "good/108.png",
+      "score": 0.22795971965088563
+    },
+    {
+      "path": "logical_anomalies/048.png",
+      "score": 0.22798819357857986
+    },
+    {
+      "path": "logical_anomalies/025.png",
+      "score": 0.2279912465635468
+    },
+    {
+      "path": "logical_anomalies/136.png",
+      "score": 0.2281207065371906
+    },
+    {
+      "path": "logical_anomalies/134.png",
+      "score": 0.2282906363115591
+    },
+    {
+      "path": "logical_anomalies/030.png",
+      "score": 0.228355153956834
+    },
+    {
+      "path": "logical_anomalies/066.png",
+      "score": 0.2286065737990772
+    },
+    {
+      "path": "good/063.png",
+      "score": 0.22886849413899815
+    },
+    {
+      "path": "logical_anomalies/061.png",
+      "score": 0.22888049658607035
+    },
+    {
+      "path": "good/096.png",
+      "score": 0.228936126565232
+    },
+    {
+      "path": "logical_anomalies/127.png",
+      "score": 0.2291099652647972
+    },
+    {
+      "path": "good/005.png",
+      "score": 0.22911837697029114
+    },
+    {
+      "path": "structural_anomalies/049.png",
+      "score": 0.2294468121493564
+    },
+    {
+      "path": "good/029.png",
+      "score": 0.22946625246721156
+    },
+    {
+      "path": "logical_anomalies/060.png",
+      "score": 0.22966283822760863
+    },
+    {
+      "path": "logical_anomalies/083.png",
+      "score": 0.22982650819946737
+    },
+    {
+      "path": "structural_anomalies/031.png",
+      "score": 0.22997489878359964
+    },
+    {
+      "path": "good/101.png",
+      "score": 0.2301457695224706
+    },
+    {
+      "path": "good/018.png",
+      "score": 0.2301576794946895
+    },
+    {
+      "path": "structural_anomalies/036.png",
+      "score": 0.23040364069097183
+    },
+    {
+      "path": "good/000.png",
+      "score": 0.2306088792050586
+    },
+    {
+      "path": "structural_anomalies/028.png",
+      "score": 0.23065831336904974
+    },
+    {
+      "path": "logical_anomalies/020.png",
+      "score": 0.23091195304604137
+    },
+    {
+      "path": "logical_anomalies/129.png",
+      "score": 0.23111813383943894
+    },
+    {
+      "path": "logical_anomalies/005.png",
+      "score": 0.23149377239101074
+    },
+    {
+      "path": "logical_anomalies/073.png",
+      "score": 0.23173923527493195
+    },
+    {
+      "path": "structural_anomalies/046.png",
+      "score": 0.2317717745900154
+    },
+    {
+      "path": "logical_anomalies/100.png",
+      "score": 0.23214660234311046
+    },
+    {
+      "path": "logical_anomalies/026.png",
+      "score": 0.23219994674710667
+    },
+    {
+      "path": "good/015.png",
+      "score": 0.23236591412740595
+    },
+    {
+      "path": "logical_anomalies/101.png",
+      "score": 0.23242703649927587
+    },
+    {
+      "path": "good/068.png",
+      "score": 0.23266421915853724
+    },
+    {
+      "path": "structural_anomalies/030.png",
+      "score": 0.23282812272801118
+    },
+    {
+      "path": "good/017.png",
+      "score": 0.23292075360522552
+    },
+    {
+      "path": "logical_anomalies/126.png",
+      "score": 0.233047596672002
+    },
+    {
+      "path": "logical_anomalies/023.png",
+      "score": 0.233111172914505
+    },
+    {
+      "path": "good/020.png",
+      "score": 0.23315473689752467
+    },
+    {
+      "path": "good/030.png",
+      "score": 0.23316865151419358
+    },
+    {
+      "path": "good/033.png",
+      "score": 0.23325924443847992
+    },
+    {
+      "path": "good/088.png",
+      "score": 0.23329251654007854
+    },
+    {
+      "path": "good/076.png",
+      "score": 0.23347348369219723
+    },
+    {
+      "path": "structural_anomalies/052.png",
+      "score": 0.23348231394501293
+    },
+    {
+      "path": "logical_anomalies/072.png",
+      "score": 0.23355313697282007
+    },
+    {
+      "path": "logical_anomalies/071.png",
+      "score": 0.23361532127155976
+    },
+    {
+      "path": "structural_anomalies/012.png",
+      "score": 0.2336262806373484
+    },
+    {
+      "path": "good/010.png",
+      "score": 0.23374318024691412
+    },
+    {
+      "path": "structural_anomalies/024.png",
+      "score": 0.23403667833875208
+    },
+    {
+      "path": "good/025.png",
+      "score": 0.23405399261152043
+    },
+    {
+      "path": "good/066.png",
+      "score": 0.23410003588480108
+    },
+    {
+      "path": "logical_anomalies/063.png",
+      "score": 0.23413063059834874
+    },
+    {
+      "path": "logical_anomalies/124.png",
+      "score": 0.2341380049200619
+    },
+    {
+      "path": "good/087.png",
+      "score": 0.23427581129705205
+    },
+    {
+      "path": "good/013.png",
+      "score": 0.23430283236152985
+    },
+    {
+      "path": "structural_anomalies/025.png",
+      "score": 0.23441775055492625
+    },
+    {
+      "path": "logical_anomalies/041.png",
+      "score": 0.23449037749977672
+    },
+    {
+      "path": "good/001.png",
+      "score": 0.23459827549317303
+    },
+    {
+      "path": "logical_anomalies/050.png",
+      "score": 0.23460042389000163
+    },
+    {
+      "path": "logical_anomalies/088.png",
+      "score": 0.234868763562511
+    },
+    {
+      "path": "structural_anomalies/047.png",
+      "score": 0.23487978472429163
+    },
+    {
+      "path": "logical_anomalies/045.png",
+      "score": 0.23489075417027755
+    },
+    {
+      "path": "logical_anomalies/069.png",
+      "score": 0.234905386234031
+    },
+    {
+      "path": "logical_anomalies/021.png",
+      "score": 0.2349509886082481
+    },
+    {
+      "path": "logical_anomalies/029.png",
+      "score": 0.23495519906282425
+    },
+    {
+      "path": "logical_anomalies/018.png",
+      "score": 0.23529552931294723
+    },
+    {
+      "path": "logical_anomalies/084.png",
+      "score": 0.23529847010093577
+    },
+    {
+      "path": "logical_anomalies/128.png",
+      "score": 0.23532382968594046
+    },
+    {
+      "path": "logical_anomalies/002.png",
+      "score": 0.23532653687631383
+    },
+    {
+      "path": "good/109.png",
+      "score": 0.23555261992356358
+    },
+    {
+      "path": "good/119.png",
+      "score": 0.23558249456041
+    },
+    {
+      "path": "good/107.png",
+      "score": 0.23576413533266852
+    },
+    {
+      "path": "structural_anomalies/021.png",
+      "score": 0.23593128297258825
+    },
+    {
+      "path": "logical_anomalies/103.png",
+      "score": 0.23600625860340455
+    },
+    {
+      "path": "structural_anomalies/015.png",
+      "score": 0.23602553500848658
+    },
+    {
+      "path": "good/047.png",
+      "score": 0.23604208274799235
+    },
+    {
+      "path": "good/080.png",
+      "score": 0.2360917058061151
+    },
+    {
+      "path": "good/069.png",
+      "score": 0.23612226896426258
+    },
+    {
+      "path": "logical_anomalies/104.png",
+      "score": 0.2361408301136073
+    },
+    {
+      "path": "structural_anomalies/023.png",
+      "score": 0.236475090331891
+    },
+    {
+      "path": "structural_anomalies/037.png",
+      "score": 0.2365820438546293
+    },
+    {
+      "path": "logical_anomalies/001.png",
+      "score": 0.23683039449593601
+    },
+    {
+      "path": "logical_anomalies/064.png",
+      "score": 0.2368905732736868
+    },
+    {
+      "path": "logical_anomalies/007.png",
+      "score": 0.2369774711482665
+    },
+    {
+      "path": "logical_anomalies/097.png",
+      "score": 0.2371832070981755
+    },
+    {
+      "path": "good/085.png",
+      "score": 0.23783382948707132
+    },
+    {
+      "path": "structural_anomalies/070.png",
+      "score": 0.23788466961944804
+    },
+    {
+      "path": "logical_anomalies/130.png",
+      "score": 0.23798563594327254
+    },
+    {
+      "path": "logical_anomalies/044.png",
+      "score": 0.23804189440082102
+    },
+    {
+      "path": "logical_anomalies/114.png",
+      "score": 0.2381954057251706
+    },
+    {
+      "path": "logical_anomalies/090.png",
+      "score": 0.23844063325839884
+    },
+    {
+      "path": "logical_anomalies/034.png",
+      "score": 0.23855220482629888
+    },
+    {
+      "path": "good/046.png",
+      "score": 0.23860331931534937
+    },
+    {
+      "path": "good/104.png",
+      "score": 0.2388288602232933
+    },
+    {
+      "path": "good/061.png",
+      "score": 0.23883268368594787
+    },
+    {
+      "path": "good/120.png",
+      "score": 0.23888154809965806
+    },
+    {
+      "path": "structural_anomalies/035.png",
+      "score": 0.23895554551306894
+    },
+    {
+      "path": "logical_anomalies/077.png",
+      "score": 0.2389559105915182
+    },
+    {
+      "path": "logical_anomalies/059.png",
+      "score": 0.23917230174821966
+    },
+    {
+      "path": "logical_anomalies/092.png",
+      "score": 0.23926284777767517
+    },
+    {
+      "path": "good/053.png",
+      "score": 0.2394813969731331
+    },
+    {
+      "path": "good/040.png",
+      "score": 0.23996096323518193
+    },
+    {
+      "path": "good/014.png",
+      "score": 0.23996870175880544
+    },
+    {
+      "path": "structural_anomalies/065.png",
+      "score": 0.2401430663817069
+    },
+    {
+      "path": "good/050.png",
+      "score": 0.24026271744686015
+    },
+    {
+      "path": "structural_anomalies/053.png",
+      "score": 0.2403376685345874
+    },
+    {
+      "path": "logical_anomalies/055.png",
+      "score": 0.24056040802422693
+    },
+    {
+      "path": "logical_anomalies/035.png",
+      "score": 0.24067389614441814
+    },
+    {
+      "path": "good/035.png",
+      "score": 0.24067840593702652
+    },
+    {
+      "path": "logical_anomalies/067.png",
+      "score": 0.2409715069567456
+    },
+    {
+      "path": "structural_anomalies/042.png",
+      "score": 0.24099502361872616
+    },
+    {
+      "path": "good/113.png",
+      "score": 0.2412331007859286
+    },
+    {
+      "path": "logical_anomalies/065.png",
+      "score": 0.24131605730337255
+    },
+    {
+      "path": "good/079.png",
+      "score": 0.24167409320087993
+    },
+    {
+      "path": "structural_anomalies/032.png",
+      "score": 0.24190989750273087
+    },
+    {
+      "path": "logical_anomalies/108.png",
+      "score": 0.24192765135975444
+    },
+    {
+      "path": "logical_anomalies/116.png",
+      "score": 0.24204747685614755
+    },
+    {
+      "path": "structural_anomalies/020.png",
+      "score": 0.24207989257924697
+    },
+    {
+      "path": "good/003.png",
+      "score": 0.24244594530147665
+    },
+    {
+      "path": "good/117.png",
+      "score": 0.24284290215548346
+    },
+    {
+      "path": "structural_anomalies/060.png",
+      "score": 0.2428968987044166
+    },
+    {
+      "path": "good/065.png",
+      "score": 0.24293081681517995
+    },
+    {
+      "path": "good/055.png",
+      "score": 0.243022723671268
+    },
+    {
+      "path": "logical_anomalies/000.png",
+      "score": 0.24317753797068314
+    },
+    {
+      "path": "good/016.png",
+      "score": 0.24353506503736272
+    },
+    {
+      "path": "structural_anomalies/045.png",
+      "score": 0.24355539942488952
+    },
+    {
+      "path": "good/074.png",
+      "score": 0.24368180071606355
+    },
+    {
+      "path": "good/103.png",
+      "score": 0.24375995160902247
+    },
+    {
+      "path": "good/059.png",
+      "score": 0.24409566162263646
+    },
+    {
+      "path": "good/045.png",
+      "score": 0.24415010827429154
+    },
+    {
+      "path": "logical_anomalies/049.png",
+      "score": 0.24415034800767899
+    },
+    {
+      "path": "logical_anomalies/112.png",
+      "score": 0.24422192047624028
+    },
+    {
+      "path": "good/011.png",
+      "score": 0.2444240161601235
+    },
+    {
+      "path": "logical_anomalies/107.png",
+      "score": 0.24472190483528025
+    },
+    {
+      "path": "structural_anomalies/033.png",
+      "score": 0.2447471443344565
+    },
+    {
+      "path": "structural_anomalies/056.png",
+      "score": 0.24482726919300415
+    },
+    {
+      "path": "logical_anomalies/098.png",
+      "score": 0.24525891332065358
+    },
+    {
+      "path": "logical_anomalies/117.png",
+      "score": 0.245408416232642
+    },
+    {
+      "path": "logical_anomalies/013.png",
+      "score": 0.24578379182254567
+    },
+    {
+      "path": "structural_anomalies/043.png",
+      "score": 0.24590579639462865
+    },
+    {
+      "path": "good/002.png",
+      "score": 0.24600939452648163
+    },
+    {
+      "path": "good/048.png",
+      "score": 0.24607733900056167
+    },
+    {
+      "path": "good/111.png",
+      "score": 0.24610785920830333
+    },
+    {
+      "path": "structural_anomalies/040.png",
+      "score": 0.24652651653570287
+    },
+    {
+      "path": "logical_anomalies/042.png",
+      "score": 0.24674426632768967
+    },
+    {
+      "path": "logical_anomalies/093.png",
+      "score": 0.24717608181869283
+    },
+    {
+      "path": "logical_anomalies/125.png",
+      "score": 0.24743549087468317
+    },
+    {
+      "path": "good/070.png",
+      "score": 0.2477869987487793
+    },
+    {
+      "path": "good/112.png",
+      "score": 0.2478129070471315
+    },
+    {
+      "path": "good/032.png",
+      "score": 0.24799061128321817
+    },
+    {
+      "path": "good/052.png",
+      "score": 0.2484035413054859
+    },
+    {
+      "path": "logical_anomalies/135.png",
+      "score": 0.24862499929526272
+    },
+    {
+      "path": "logical_anomalies/110.png",
+      "score": 0.2488453234819805
+    },
+    {
+      "path": "logical_anomalies/062.png",
+      "score": 0.24886148861225912
+    },
+    {
+      "path": "good/093.png",
+      "score": 0.24898010711459553
+    },
+    {
+      "path": "good/083.png",
+      "score": 0.2491634347859551
+    },
+    {
+      "path": "good/092.png",
+      "score": 0.2493562540587257
+    },
+    {
+      "path": "logical_anomalies/043.png",
+      "score": 0.24964863061904907
+    },
+    {
+      "path": "structural_anomalies/010.png",
+      "score": 0.25011712093563643
+    },
+    {
+      "path": "good/044.png",
+      "score": 0.2507080597912564
+    },
+    {
+      "path": "good/012.png",
+      "score": 0.25089483401354623
+    },
+    {
+      "path": "logical_anomalies/078.png",
+      "score": 0.25099220959579244
+    },
+    {
+      "path": "logical_anomalies/085.png",
+      "score": 0.2512384543524069
+    },
+    {
+      "path": "good/075.png",
+      "score": 0.25233131340321374
+    },
+    {
+      "path": "logical_anomalies/051.png",
+      "score": 0.2523583344676915
+    },
+    {
+      "path": "logical_anomalies/003.png",
+      "score": 0.2524600300718756
+    },
+    {
+      "path": "good/043.png",
+      "score": 0.25249643886790557
+    },
+    {
+      "path": "logical_anomalies/010.png",
+      "score": 0.25320347661481185
+    },
+    {
+      "path": "structural_anomalies/007.png",
+      "score": 0.2534584105014801
+    },
+    {
+      "path": "logical_anomalies/102.png",
+      "score": 0.25381839976591225
+    },
+    {
+      "path": "good/086.png",
+      "score": 0.2546722766231088
+    },
+    {
+      "path": "good/058.png",
+      "score": 0.255219549378928
+    },
+    {
+      "path": "good/071.png",
+      "score": 0.25526116656906467
+    },
+    {
+      "path": "structural_anomalies/071.png",
+      "score": 0.25584600909667854
+    },
+    {
+      "path": "good/118.png",
+      "score": 0.2559579588911113
+    },
+    {
+      "path": "structural_anomalies/039.png",
+      "score": 0.2568594813346863
+    },
+    {
+      "path": "good/099.png",
+      "score": 0.2572237467941116
+    },
+    {
+      "path": "structural_anomalies/074.png",
+      "score": 0.2575775810024318
+    },
+    {
+      "path": "logical_anomalies/070.png",
+      "score": 0.25839913592619057
+    },
+    {
+      "path": "good/024.png",
+      "score": 0.25870834685423794
+    },
+    {
+      "path": "logical_anomalies/054.png",
+      "score": 0.2594277170651099
+    },
+    {
+      "path": "structural_anomalies/059.png",
+      "score": 0.2596753287841292
+    },
+    {
+      "path": "structural_anomalies/072.png",
+      "score": 0.259763455566238
+    },
+    {
+      "path": "logical_anomalies/131.png",
+      "score": 0.2599236325306051
+    },
+    {
+      "path": "logical_anomalies/076.png",
+      "score": 0.260096240131294
+    },
+    {
+      "path": "good/072.png",
+      "score": 0.2606262073797338
+    },
+    {
+      "path": "good/027.png",
+      "score": 0.26085709868108525
+    },
+    {
+      "path": "logical_anomalies/087.png",
+      "score": 0.26200805516803966
+    },
+    {
+      "path": "structural_anomalies/077.png",
+      "score": 0.26248755656621037
+    },
+    {
+      "path": "logical_anomalies/133.png",
+      "score": 0.2627063836244976
+    },
+    {
+      "path": "structural_anomalies/066.png",
+      "score": 0.26463086114210244
+    },
+    {
+      "path": "logical_anomalies/113.png",
+      "score": 0.2653859919484924
+    },
+    {
+      "path": "good/077.png",
+      "score": 0.26539704510394263
+    },
+    {
+      "path": "structural_anomalies/079.png",
+      "score": 0.26576806341900544
+    },
+    {
+      "path": "good/081.png",
+      "score": 0.26607749129042907
+    },
+    {
+      "path": "structural_anomalies/017.png",
+      "score": 0.266579229165526
+    },
+    {
+      "path": "structural_anomalies/062.png",
+      "score": 0.2686120617915602
+    },
+    {
+      "path": "structural_anomalies/034.png",
+      "score": 0.26934778821818967
+    },
+    {
+      "path": "structural_anomalies/029.png",
+      "score": 0.27034657886799646
+    },
+    {
+      "path": "good/056.png",
+      "score": 0.2720009579378016
+    },
+    {
+      "path": "logical_anomalies/053.png",
+      "score": 0.27393731956972794
+    },
+    {
+      "path": "structural_anomalies/068.png",
+      "score": 0.2751341317506397
+    },
+    {
+      "path": "good/054.png",
+      "score": 0.2757952002918019
+    },
+    {
+      "path": "logical_anomalies/119.png",
+      "score": 0.2762123490957653
+    },
+    {
+      "path": "logical_anomalies/052.png",
+      "score": 0.2776430967976065
+    },
+    {
+      "path": "structural_anomalies/009.png",
+      "score": 0.2778405661092085
+    },
+    {
+      "path": "structural_anomalies/022.png",
+      "score": 0.27790845054037433
+    },
+    {
+      "path": "good/095.png",
+      "score": 0.2783702011494076
+    },
+    {
+      "path": "structural_anomalies/026.png",
+      "score": 0.27908240784617033
+    },
+    {
+      "path": "good/021.png",
+      "score": 0.28024086969740253
+    },
+    {
+      "path": "logical_anomalies/012.png",
+      "score": 0.28129881795714884
+    },
+    {
+      "path": "logical_anomalies/019.png",
+      "score": 0.2839168643250185
+    },
+    {
+      "path": "structural_anomalies/051.png",
+      "score": 0.28491750622496886
+    },
+    {
+      "path": "structural_anomalies/063.png",
+      "score": 0.2917664918829413
+    },
+    {
+      "path": "structural_anomalies/069.png",
+      "score": 0.2934699005940381
+    },
+    {
+      "path": "logical_anomalies/109.png",
+      "score": 0.2937460787156049
+    },
+    {
+      "path": "structural_anomalies/004.png",
+      "score": 0.29635829609983105
+    },
+    {
+      "path": "structural_anomalies/078.png",
+      "score": 0.29694199649726644
+    },
+    {
+      "path": "structural_anomalies/064.png",
+      "score": 0.29799952489488263
+    },
+    {
+      "path": "good/064.png",
+      "score": 0.29941936538499947
+    },
+    {
+      "path": "structural_anomalies/001.png",
+      "score": 0.30010709166526794
+    },
+    {
+      "path": "good/038.png",
+      "score": 0.3047316354863784
+    },
+    {
+      "path": "structural_anomalies/002.png",
+      "score": 0.3058453973601846
+    },
+    {
+      "path": "logical_anomalies/106.png",
+      "score": 0.3070425882058985
+    },
+    {
+      "path": "structural_anomalies/018.png",
+      "score": 0.30772649190005136
+    },
+    {
+      "path": "structural_anomalies/076.png",
+      "score": 0.31323985404828014
+    },
+    {
+      "path": "structural_anomalies/048.png",
+      "score": 0.3141913374557215
+    },
+    {
+      "path": "structural_anomalies/058.png",
+      "score": 0.31441884619348187
+    },
+    {
+      "path": "structural_anomalies/081.png",
+      "score": 0.316709165187443
+    },
+    {
+      "path": "structural_anomalies/080.png",
+      "score": 0.3216861837050494
+    },
+    {
+      "path": "structural_anomalies/013.png",
+      "score": 0.3256138085442431
+    },
+    {
+      "path": "structural_anomalies/000.png",
+      "score": 0.3285380409044378
+    },
+    {
+      "path": "structural_anomalies/057.png",
+      "score": 0.3319658786058426
+    },
+    {
+      "path": "structural_anomalies/061.png",
+      "score": 0.33820338722537546
+    },
+    {
+      "path": "structural_anomalies/027.png",
+      "score": 0.339909644687877
+    },
+    {
+      "path": "structural_anomalies/006.png",
+      "score": 0.34085432308561664
+    },
+    {
+      "path": "structural_anomalies/067.png",
+      "score": 0.34441462860387917
+    },
+    {
+      "path": "structural_anomalies/014.png",
+      "score": 0.34796231327687993
+    },
+    {
+      "path": "logical_anomalies/094.png",
+      "score": 0.37243234585313234
+    },
+    {
+      "path": "structural_anomalies/075.png",
+      "score": 0.3822798886719872
+    },
+    {
+      "path": "structural_anomalies/044.png",
+      "score": 0.4015023515504949
+    },
+    {
+      "path": "structural_anomalies/003.png",
+      "score": 0.4440526348703048
+    },
+    {
+      "path": "structural_anomalies/050.png",
+      "score": 0.4457220443907906
+    },
+    {
+      "path": "structural_anomalies/073.png",
+      "score": 0.46512389971929435
+    },
+    {
+      "path": "logical_anomalies/074.png",
+      "score": 0.48784395351129417
+    },
+    {
+      "path": "structural_anomalies/011.png",
+      "score": 0.49244678984670076
+    }
+  ],
+  "splicing_connectors": [
+    {
+      "path": "good/060.png",
+      "score": 0.157762884776643
+    },
+    {
+      "path": "good/017.png",
+      "score": 0.1586344248436867
+    },
+    {
+      "path": "logical_anomalies/075.png",
+      "score": 0.16041382100987941
+    },
+    {
+      "path": "good/040.png",
+      "score": 0.16065764427185059
+    },
+    {
+      "path": "logical_anomalies/071.png",
+      "score": 0.16369914818317333
+    },
+    {
+      "path": "logical_anomalies/090.png",
+      "score": 0.16379632499623806
+    },
+    {
+      "path": "logical_anomalies/097.png",
+      "score": 0.16472694182649572
+    },
+    {
+      "path": "good/098.png",
+      "score": 0.16484760477187785
+    },
+    {
+      "path": "good/096.png",
+      "score": 0.16615913015730838
+    },
+    {
+      "path": "good/079.png",
+      "score": 0.16640907208970251
+    },
+    {
+      "path": "good/000.png",
+      "score": 0.16672714022879906
+    },
+    {
+      "path": "good/047.png",
+      "score": 0.16677320320555505
+    },
+    {
+      "path": "good/016.png",
+      "score": 0.16685228715551662
+    },
+    {
+      "path": "good/095.png",
+      "score": 0.1673232504027955
+    },
+    {
+      "path": "logical_anomalies/101.png",
+      "score": 0.16790610963993885
+    },
+    {
+      "path": "logical_anomalies/100.png",
+      "score": 0.16791226730701772
+    },
+    {
+      "path": "good/007.png",
+      "score": 0.1686241994512842
+    },
+    {
+      "path": "good/075.png",
+      "score": 0.16863682200299931
+    },
+    {
+      "path": "good/054.png",
+      "score": 0.16864287758127172
+    },
+    {
+      "path": "good/015.png",
+      "score": 0.16907576455714854
+    },
+    {
+      "path": "good/001.png",
+      "score": 0.16939184925657638
+    },
+    {
+      "path": "structural_anomalies/079.png",
+      "score": 0.16947185105465828
+    },
+    {
+      "path": "good/032.png",
+      "score": 0.16962443545777747
+    },
+    {
+      "path": "structural_anomalies/080.png",
+      "score": 0.16966302344139586
+    },
+    {
+      "path": "logical_anomalies/103.png",
+      "score": 0.1706446735782826
+    },
+    {
+      "path": "logical_anomalies/012.png",
+      "score": 0.17101722036270386
+    },
+    {
+      "path": "good/028.png",
+      "score": 0.17122981237604262
+    },
+    {
+      "path": "good/081.png",
+      "score": 0.17179196914459796
+    },
+    {
+      "path": "structural_anomalies/077.png",
+      "score": 0.17203910965868768
+    },
+    {
+      "path": "good/008.png",
+      "score": 0.17359881515198566
+    },
+    {
+      "path": "good/102.png",
+      "score": 0.1743612764997685
+    },
+    {
+      "path": "logical_anomalies/106.png",
+      "score": 0.17437809071642288
+    },
+    {
+      "path": "logical_anomalies/081.png",
+      "score": 0.17494068817889435
+    },
+    {
+      "path": "good/003.png",
+      "score": 0.17503119307629605
+    },
+    {
+      "path": "logical_anomalies/093.png",
+      "score": 0.17504163308346526
+    },
+    {
+      "path": "logical_anomalies/074.png",
+      "score": 0.17530569465870552
+    },
+    {
+      "path": "logical_anomalies/088.png",
+      "score": 0.17565387550820696
+    },
+    {
+      "path": "good/059.png",
+      "score": 0.17589000691758824
+    },
+    {
+      "path": "structural_anomalies/071.png",
+      "score": 0.1760776994076181
+    },
+    {
+      "path": "logical_anomalies/085.png",
+      "score": 0.17658050707046022
+    },
+    {
+      "path": "good/077.png",
+      "score": 0.17690224279748631
+    },
+    {
+      "path": "structural_anomalies/076.png",
+      "score": 0.17705705888727877
+    },
+    {
+      "path": "logical_anomalies/015.png",
+      "score": 0.1770926019612779
+    },
+    {
+      "path": "good/002.png",
+      "score": 0.17735180670910694
+    },
+    {
+      "path": "good/069.png",
+      "score": 0.17748083205933265
+    },
+    {
+      "path": "good/109.png",
+      "score": 0.17773208307458999
+    },
+    {
+      "path": "good/021.png",
+      "score": 0.17781854056297464
+    },
+    {
+      "path": "good/089.png",
+      "score": 0.17786451983959117
+    },
+    {
+      "path": "good/005.png",
+      "score": 0.17801300230178427
+    },
+    {
+      "path": "good/030.png",
+      "score": 0.17885691054323885
+    },
+    {
+      "path": "good/046.png",
+      "score": 0.17954095056716432
+    },
+    {
+      "path": "logical_anomalies/099.png",
+      "score": 0.18016119967115687
+    },
+    {
+      "path": "logical_anomalies/073.png",
+      "score": 0.18017899799854198
+    },
+    {
+      "path": "logical_anomalies/094.png",
+      "score": 0.180541603806171
+    },
+    {
+      "path": "structural_anomalies/018.png",
+      "score": 0.1806625337042707
+    },
+    {
+      "path": "good/025.png",
+      "score": 0.18074586226585063
+    },
+    {
+      "path": "good/023.png",
+      "score": 0.18098691074137993
+    },
+    {
+      "path": "good/033.png",
+      "score": 0.1812980409632338
+    },
+    {
+      "path": "good/006.png",
+      "score": 0.18163743393218262
+    },
+    {
+      "path": "good/044.png",
+      "score": 0.18303595641826062
+    },
+    {
+      "path": "good/118.png",
+      "score": 0.1834131510967904
+    },
+    {
+      "path": "good/020.png",
+      "score": 0.18351653598724527
+    },
+    {
+      "path": "good/108.png",
+      "score": 0.18381814151368242
+    },
+    {
+      "path": "good/097.png",
+      "score": 0.18452579639059433
+    },
+    {
+      "path": "good/051.png",
+      "score": 0.1851798930066697
+    },
+    {
+      "path": "good/078.png",
+      "score": 0.18534083474189678
+    },
+    {
+      "path": "good/106.png",
+      "score": 0.1855145588200143
+    },
+    {
+      "path": "structural_anomalies/074.png",
+      "score": 0.18594655109212754
+    },
+    {
+      "path": "good/101.png",
+      "score": 0.186461755569945
+    },
+    {
+      "path": "good/080.png",
+      "score": 0.18672071397304535
+    },
+    {
+      "path": "logical_anomalies/104.png",
+      "score": 0.18681620790603312
+    },
+    {
+      "path": "good/055.png",
+      "score": 0.18712328945068604
+    },
+    {
+      "path": "logical_anomalies/048.png",
+      "score": 0.18736151621696798
+    },
+    {
+      "path": "logical_anomalies/013.png",
+      "score": 0.18737023181103646
+    },
+    {
+      "path": "good/117.png",
+      "score": 0.18754585721391312
+    },
+    {
+      "path": "structural_anomalies/028.png",
+      "score": 0.18768245045174944
+    },
+    {
+      "path": "good/026.png",
+      "score": 0.18811671087082396
+    },
+    {
+      "path": "good/092.png",
+      "score": 0.18873528121633731
+    },
+    {
+      "path": "good/018.png",
+      "score": 0.18889386032490021
+    },
+    {
+      "path": "structural_anomalies/069.png",
+      "score": 0.18908937497341888
+    },
+    {
+      "path": "good/074.png",
+      "score": 0.18914426007169358
+    },
+    {
+      "path": "structural_anomalies/075.png",
+      "score": 0.18969074208685693
+    },
+    {
+      "path": "good/067.png",
+      "score": 0.18970132413062643
+    },
+    {
+      "path": "good/053.png",
+      "score": 0.1903177502941578
+    },
+    {
+      "path": "good/072.png",
+      "score": 0.1906903623900515
+    },
+    {
+      "path": "logical_anomalies/080.png",
+      "score": 0.1911491777034516
+    },
+    {
+      "path": "structural_anomalies/000.png",
+      "score": 0.1917729396769341
+    },
+    {
+      "path": "good/013.png",
+      "score": 0.19266911992367278
+    },
+    {
+      "path": "logical_anomalies/086.png",
+      "score": 0.19381687298734138
+    },
+    {
+      "path": "good/063.png",
+      "score": 0.1943487930805125
+    },
+    {
+      "path": "good/042.png",
+      "score": 0.19464903974786718
+    },
+    {
+      "path": "good/062.png",
+      "score": 0.1949738140435929
+    },
+    {
+      "path": "logical_anomalies/014.png",
+      "score": 0.19562582830165295
+    },
+    {
+      "path": "structural_anomalies/033.png",
+      "score": 0.19566706139990625
+    },
+    {
+      "path": "good/065.png",
+      "score": 0.19633951307611264
+    },
+    {
+      "path": "logical_anomalies/017.png",
+      "score": 0.196770246041582
+    },
+    {
+      "path": "good/038.png",
+      "score": 0.19689406200926354
+    },
+    {
+      "path": "logical_anomalies/055.png",
+      "score": 0.19697368366921203
+    },
+    {
+      "path": "logical_anomalies/016.png",
+      "score": 0.19702471982925496
+    },
+    {
+      "path": "logical_anomalies/098.png",
+      "score": 0.19756515102183564
+    },
+    {
+      "path": "good/058.png",
+      "score": 0.19764678560672921
+    },
+    {
+      "path": "good/064.png",
+      "score": 0.19802617202413844
+    },
+    {
+      "path": "good/084.png",
+      "score": 0.19839310867989318
+    },
+    {
+      "path": "logical_anomalies/078.png",
+      "score": 0.19865417607287142
+    },
+    {
+      "path": "structural_anomalies/026.png",
+      "score": 0.198702945671183
+    },
+    {
+      "path": "logical_anomalies/096.png",
+      "score": 0.19895152208652903
+    },
+    {
+      "path": "logical_anomalies/072.png",
+      "score": 0.199059729563429
+    },
+    {
+      "path": "structural_anomalies/004.png",
+      "score": 0.19917384075357558
+    },
+    {
+      "path": "good/088.png",
+      "score": 0.19948098221991925
+    },
+    {
+      "path": "good/093.png",
+      "score": 0.20036535218675086
+    },
+    {
+      "path": "good/083.png",
+      "score": 0.20040689408779144
+    },
+    {
+      "path": "good/056.png",
+      "score": 0.20158160557138158
+    },
+    {
+      "path": "good/115.png",
+      "score": 0.2019110899022285
+    },
+    {
+      "path": "logical_anomalies/091.png",
+      "score": 0.20203419378463258
+    },
+    {
+      "path": "structural_anomalies/003.png",
+      "score": 0.20206530899443526
+    },
+    {
+      "path": "logical_anomalies/032.png",
+      "score": 0.20207934969283164
+    },
+    {
+      "path": "logical_anomalies/024.png",
+      "score": 0.20219678003737268
+    },
+    {
+      "path": "logical_anomalies/102.png",
+      "score": 0.2024513251603918
+    },
+    {
+      "path": "good/090.png",
+      "score": 0.2025592469788612
+    },
+    {
+      "path": "structural_anomalies/015.png",
+      "score": 0.20288082037834412
+    },
+    {
+      "path": "logical_anomalies/095.png",
+      "score": 0.20288388082321654
+    },
+    {
+      "path": "good/014.png",
+      "score": 0.20289017672234394
+    },
+    {
+      "path": "good/041.png",
+      "score": 0.20291603277338313
+    },
+    {
+      "path": "good/049.png",
+      "score": 0.2030029372966036
+    },
+    {
+      "path": "good/027.png",
+      "score": 0.20332856064147137
+    },
+    {
+      "path": "logical_anomalies/025.png",
+      "score": 0.20343999945102853
+    },
+    {
+      "path": "good/004.png",
+      "score": 0.20348414556777222
+    },
+    {
+      "path": "logical_anomalies/028.png",
+      "score": 0.20366594449002692
+    },
+    {
+      "path": "logical_anomalies/005.png",
+      "score": 0.20383529650404097
+    },
+    {
+      "path": "good/066.png",
+      "score": 0.20386755466461182
+    },
+    {
+      "path": "good/039.png",
+      "score": 0.20387447482727944
+    },
+    {
+      "path": "logical_anomalies/087.png",
+      "score": 0.20450121861823062
+    },
+    {
+      "path": "good/050.png",
+      "score": 0.20517371594905853
+    },
+    {
+      "path": "good/010.png",
+      "score": 0.20551238478498257
+    },
+    {
+      "path": "structural_anomalies/031.png",
+      "score": 0.2055966816049941
+    },
+    {
+      "path": "good/024.png",
+      "score": 0.20564281211254445
+    },
+    {
+      "path": "logical_anomalies/019.png",
+      "score": 0.2063078395229705
+    },
+    {
+      "path": "good/099.png",
+      "score": 0.2063980200823317
+    },
+    {
+      "path": "structural_anomalies/023.png",
+      "score": 0.2064502366045688
+    },
+    {
+      "path": "good/082.png",
+      "score": 0.2065801052971089
+    },
+    {
+      "path": "structural_anomalies/078.png",
+      "score": 0.20663619929171623
+    },
+    {
+      "path": "good/034.png",
+      "score": 0.20692709722417466
+    },
+    {
+      "path": "good/031.png",
+      "score": 0.20698640384572617
+    },
+    {
+      "path": "logical_anomalies/092.png",
+      "score": 0.20732244119999257
+    },
+    {
+      "path": "structural_anomalies/014.png",
+      "score": 0.20787785661981462
+    },
+    {
+      "path": "good/113.png",
+      "score": 0.20788378537969388
+    },
+    {
+      "path": "good/114.png",
+      "score": 0.20803100568182925
+    },
+    {
+      "path": "good/068.png",
+      "score": 0.2083230272252509
+    },
+    {
+      "path": "logical_anomalies/053.png",
+      "score": 0.2083377771555109
+    },
+    {
+      "path": "logical_anomalies/031.png",
+      "score": 0.208441010497986
+    },
+    {
+      "path": "good/086.png",
+      "score": 0.20894437933221777
+    },
+    {
+      "path": "structural_anomalies/082.png",
+      "score": 0.20902732965794016
+    },
+    {
+      "path": "good/076.png",
+      "score": 0.20956711058921002
+    },
+    {
+      "path": "good/111.png",
+      "score": 0.20996767536122748
+    },
+    {
+      "path": "good/094.png",
+      "score": 0.2105673022092657
+    },
+    {
+      "path": "good/061.png",
+      "score": 0.21087725175187944
+    },
+    {
+      "path": "logical_anomalies/049.png",
+      "score": 0.210899736652983
+    },
+    {
+      "path": "logical_anomalies/020.png",
+      "score": 0.21096517557793476
+    },
+    {
+      "path": "good/012.png",
+      "score": 0.21125520543849213
+    },
+    {
+      "path": "structural_anomalies/072.png",
+      "score": 0.21166577491354435
+    },
+    {
+      "path": "good/037.png",
+      "score": 0.21172772443040888
+    },
+    {
+      "path": "logical_anomalies/023.png",
+      "score": 0.21179659632926293
+    },
+    {
+      "path": "good/022.png",
+      "score": 0.2123383201183157
+    },
+    {
+      "path": "structural_anomalies/020.png",
+      "score": 0.21285372179873446
+    },
+    {
+      "path": "good/091.png",
+      "score": 0.2131687377361541
+    },
+    {
+      "path": "good/107.png",
+      "score": 0.21318480784588673
+    },
+    {
+      "path": "logical_anomalies/058.png",
+      "score": 0.21332691641564064
+    },
+    {
+      "path": "structural_anomalies/037.png",
+      "score": 0.21348414332308668
+    },
+    {
+      "path": "logical_anomalies/027.png",
+      "score": 0.2136197438899507
+    },
+    {
+      "path": "logical_anomalies/084.png",
+      "score": 0.21428957708338472
+    },
+    {
+      "path": "good/070.png",
+      "score": 0.2144014093470066
+    },
+    {
+      "path": "logical_anomalies/021.png",
+      "score": 0.2146123803042351
+    },
+    {
+      "path": "good/071.png",
+      "score": 0.21504754842595852
+    },
+    {
+      "path": "structural_anomalies/081.png",
+      "score": 0.21512849628925323
+    },
+    {
+      "path": "good/052.png",
+      "score": 0.2151972201276333
+    },
+    {
+      "path": "structural_anomalies/025.png",
+      "score": 0.21537540504272948
+    },
+    {
+      "path": "good/105.png",
+      "score": 0.21543989758542242
+    },
+    {
+      "path": "good/073.png",
+      "score": 0.21557057379408084
+    },
+    {
+      "path": "good/011.png",
+      "score": 0.21564473465402076
+    },
+    {
+      "path": "good/043.png",
+      "score": 0.21569941208717672
+    },
+    {
+      "path": "structural_anomalies/073.png",
+      "score": 0.21578094933895356
+    },
+    {
+      "path": "structural_anomalies/040.png",
+      "score": 0.2159037748549847
+    },
+    {
+      "path": "good/019.png",
+      "score": 0.21631169572789619
+    },
+    {
+      "path": "logical_anomalies/107.png",
+      "score": 0.21671524612193413
+    },
+    {
+      "path": "good/035.png",
+      "score": 0.21724910685356627
+    },
+    {
+      "path": "structural_anomalies/039.png",
+      "score": 0.21756265138057954
+    },
+    {
+      "path": "good/029.png",
+      "score": 0.21769580974223765
+    },
+    {
+      "path": "logical_anomalies/062.png",
+      "score": 0.21911409275328858
+    },
+    {
+      "path": "structural_anomalies/012.png",
+      "score": 0.21937292909368555
+    },
+    {
+      "path": "good/116.png",
+      "score": 0.21973539349880625
+    },
+    {
+      "path": "logical_anomalies/030.png",
+      "score": 0.22030182468130233
+    },
+    {
+      "path": "logical_anomalies/047.png",
+      "score": 0.22033025514572224
+    },
+    {
+      "path": "logical_anomalies/051.png",
+      "score": 0.22126322096966683
+    },
+    {
+      "path": "structural_anomalies/001.png",
+      "score": 0.22146385242330266
+    },
+    {
+      "path": "logical_anomalies/105.png",
+      "score": 0.22200043499469757
+    },
+    {
+      "path": "structural_anomalies/067.png",
+      "score": 0.22233932988440736
+    },
+    {
+      "path": "logical_anomalies/082.png",
+      "score": 0.22308589613184016
+    },
+    {
+      "path": "structural_anomalies/084.png",
+      "score": 0.22313255420390596
+    },
+    {
+      "path": "structural_anomalies/042.png",
+      "score": 0.22350029140076738
+    },
+    {
+      "path": "logical_anomalies/022.png",
+      "score": 0.22359798912038195
+    },
+    {
+      "path": "logical_anomalies/009.png",
+      "score": 0.22360939136210908
+    },
+    {
+      "path": "logical_anomalies/029.png",
+      "score": 0.22417036269573457
+    },
+    {
+      "path": "logical_anomalies/079.png",
+      "score": 0.22523572945848425
+    },
+    {
+      "path": "structural_anomalies/068.png",
+      "score": 0.22530989253774603
+    },
+    {
+      "path": "good/036.png",
+      "score": 0.22617419634727723
+    },
+    {
+      "path": "structural_anomalies/029.png",
+      "score": 0.22637634993867672
+    },
+    {
+      "path": "good/045.png",
+      "score": 0.226413165318205
+    },
+    {
+      "path": "good/112.png",
+      "score": 0.22676409590751567
+    },
+    {
+      "path": "logical_anomalies/018.png",
+      "score": 0.2281321623223893
+    },
+    {
+      "path": "logical_anomalies/026.png",
+      "score": 0.2282271556397702
+    },
+    {
+      "path": "logical_anomalies/083.png",
+      "score": 0.22890589941055217
+    },
+    {
+      "path": "logical_anomalies/061.png",
+      "score": 0.22902926231952422
+    },
+    {
+      "path": "structural_anomalies/021.png",
+      "score": 0.22913306190612467
+    },
+    {
+      "path": "good/057.png",
+      "score": 0.2294522688743916
+    },
+    {
+      "path": "logical_anomalies/054.png",
+      "score": 0.23014049770984243
+    },
+    {
+      "path": "logical_anomalies/076.png",
+      "score": 0.23057698601103843
+    },
+    {
+      "path": "logical_anomalies/000.png",
+      "score": 0.2306065892285489
+    },
+    {
+      "path": "good/100.png",
+      "score": 0.23173182822288352
+    },
+    {
+      "path": "logical_anomalies/063.png",
+      "score": 0.23199297551144946
+    },
+    {
+      "path": "logical_anomalies/036.png",
+      "score": 0.23242438283372432
+    },
+    {
+      "path": "good/087.png",
+      "score": 0.23305090627771743
+    },
+    {
+      "path": "good/009.png",
+      "score": 0.23388507137907313
+    },
+    {
+      "path": "logical_anomalies/077.png",
+      "score": 0.23430456252808265
+    },
+    {
+      "path": "good/104.png",
+      "score": 0.234461950494888
+    },
+    {
+      "path": "logical_anomalies/050.png",
+      "score": 0.23499798457673254
+    },
+    {
+      "path": "structural_anomalies/044.png",
+      "score": 0.23513295485618266
+    },
+    {
+      "path": "logical_anomalies/007.png",
+      "score": 0.23615958969643774
+    },
+    {
+      "path": "structural_anomalies/011.png",
+      "score": 0.2362232988185071
+    },
+    {
+      "path": "structural_anomalies/006.png",
+      "score": 0.23627960840438275
+    },
+    {
+      "path": "logical_anomalies/069.png",
+      "score": 0.23652678506171448
+    },
+    {
+      "path": "structural_anomalies/070.png",
+      "score": 0.23673666633189994
+    },
+    {
+      "path": "logical_anomalies/004.png",
+      "score": 0.2370573805367693
+    },
+    {
+      "path": "good/103.png",
+      "score": 0.2375227263633241
+    },
+    {
+      "path": "logical_anomalies/065.png",
+      "score": 0.23797449501270942
+    },
+    {
+      "path": "structural_anomalies/019.png",
+      "score": 0.23840406061486996
+    },
+    {
+      "path": "structural_anomalies/083.png",
+      "score": 0.23852552093089896
+    },
+    {
+      "path": "logical_anomalies/011.png",
+      "score": 0.23909402464298493
+    },
+    {
+      "path": "structural_anomalies/030.png",
+      "score": 0.23910205510068447
+    },
+    {
+      "path": "structural_anomalies/032.png",
+      "score": 0.24143270387294444
+    },
+    {
+      "path": "good/085.png",
+      "score": 0.24155445048149596
+    },
+    {
+      "path": "logical_anomalies/067.png",
+      "score": 0.24171912416498711
+    },
+    {
+      "path": "logical_anomalies/041.png",
+      "score": 0.2418230172801525
+    },
+    {
+      "path": "logical_anomalies/059.png",
+      "score": 0.2423486516196677
+    },
+    {
+      "path": "logical_anomalies/052.png",
+      "score": 0.24286061049775876
+    },
+    {
+      "path": "structural_anomalies/008.png",
+      "score": 0.24332390281748265
+    },
+    {
+      "path": "structural_anomalies/013.png",
+      "score": 0.24384767514594058
+    },
+    {
+      "path": "logical_anomalies/089.png",
+      "score": 0.24521925918599394
+    },
+    {
+      "path": "structural_anomalies/041.png",
+      "score": 0.2455539475096033
+    },
+    {
+      "path": "good/110.png",
+      "score": 0.24711996380318987
+    },
+    {
+      "path": "structural_anomalies/027.png",
+      "score": 0.2471420482752171
+    },
+    {
+      "path": "logical_anomalies/035.png",
+      "score": 0.24851651045870274
+    },
+    {
+      "path": "structural_anomalies/024.png",
+      "score": 0.2495869407628445
+    },
+    {
+      "path": "logical_anomalies/042.png",
+      "score": 0.24994737004980128
+    },
+    {
+      "path": "structural_anomalies/009.png",
+      "score": 0.25014851131337756
+    },
+    {
+      "path": "structural_anomalies/035.png",
+      "score": 0.25109253189665204
+    },
+    {
+      "path": "structural_anomalies/010.png",
+      "score": 0.2519302155743254
+    },
+    {
+      "path": "logical_anomalies/057.png",
+      "score": 0.25214890596714423
+    },
+    {
+      "path": "structural_anomalies/016.png",
+      "score": 0.2535589400758135
+    },
+    {
+      "path": "logical_anomalies/066.png",
+      "score": 0.2538735530477889
+    },
+    {
+      "path": "structural_anomalies/022.png",
+      "score": 0.2579805381754611
+    },
+    {
+      "path": "structural_anomalies/050.png",
+      "score": 0.2585037848416795
+    },
+    {
+      "path": "logical_anomalies/010.png",
+      "score": 0.25894150328128895
+    },
+    {
+      "path": "structural_anomalies/036.png",
+      "score": 0.2596358254234842
+    },
+    {
+      "path": "logical_anomalies/043.png",
+      "score": 0.2600579902212671
+    },
+    {
+      "path": "logical_anomalies/008.png",
+      "score": 0.26014165580272675
+    },
+    {
+      "path": "logical_anomalies/044.png",
+      "score": 0.26089455440957493
+    },
+    {
+      "path": "logical_anomalies/034.png",
+      "score": 0.26166647799471593
+    },
+    {
+      "path": "logical_anomalies/045.png",
+      "score": 0.2620664654259986
+    },
+    {
+      "path": "structural_anomalies/002.png",
+      "score": 0.2620846007732635
+    },
+    {
+      "path": "logical_anomalies/033.png",
+      "score": 0.2629315364868083
+    },
+    {
+      "path": "structural_anomalies/054.png",
+      "score": 0.2657590166051337
+    },
+    {
+      "path": "logical_anomalies/064.png",
+      "score": 0.26580398989484666
+    },
+    {
+      "path": "logical_anomalies/070.png",
+      "score": 0.2664970254644434
+    },
+    {
+      "path": "structural_anomalies/049.png",
+      "score": 0.2666840286965066
+    },
+    {
+      "path": "structural_anomalies/038.png",
+      "score": 0.26914187790231503
+    },
+    {
+      "path": "logical_anomalies/046.png",
+      "score": 0.2699997418738426
+    },
+    {
+      "path": "logical_anomalies/037.png",
+      "score": 0.2720558868443712
+    },
+    {
+      "path": "structural_anomalies/065.png",
+      "score": 0.2737648848523485
+    },
+    {
+      "path": "logical_anomalies/060.png",
+      "score": 0.27381930325893644
+    },
+    {
+      "path": "structural_anomalies/034.png",
+      "score": 0.27597740577890517
+    },
+    {
+      "path": "logical_anomalies/038.png",
+      "score": 0.2763411840225788
+    },
+    {
+      "path": "structural_anomalies/005.png",
+      "score": 0.27663064478559696
+    },
+    {
+      "path": "logical_anomalies/001.png",
+      "score": 0.2813224459582187
+    },
+    {
+      "path": "structural_anomalies/043.png",
+      "score": 0.28395034499624944
+    },
+    {
+      "path": "structural_anomalies/045.png",
+      "score": 0.2841294163719137
+    },
+    {
+      "path": "structural_anomalies/064.png",
+      "score": 0.2862988868926434
+    },
+    {
+      "path": "structural_anomalies/007.png",
+      "score": 0.28691267396541353
+    },
+    {
+      "path": "good/048.png",
+      "score": 0.2875371581696449
+    },
+    {
+      "path": "structural_anomalies/066.png",
+      "score": 0.28878207409635503
+    },
+    {
+      "path": "logical_anomalies/039.png",
+      "score": 0.2902175597053893
+    },
+    {
+      "path": "structural_anomalies/017.png",
+      "score": 0.2934979311329253
+    },
+    {
+      "path": "structural_anomalies/059.png",
+      "score": 0.29360334036198066
+    },
+    {
+      "path": "structural_anomalies/061.png",
+      "score": 0.2962533454311655
+    },
+    {
+      "path": "logical_anomalies/056.png",
+      "score": 0.2971252634170208
+    },
+    {
+      "path": "structural_anomalies/053.png",
+      "score": 0.29746047486650184
+    },
+    {
+      "path": "logical_anomalies/006.png",
+      "score": 0.30109930101861343
+    },
+    {
+      "path": "logical_anomalies/040.png",
+      "score": 0.302482120217161
+    },
+    {
+      "path": "logical_anomalies/068.png",
+      "score": 0.302941694538644
+    },
+    {
+      "path": "structural_anomalies/055.png",
+      "score": 0.3031411456300857
+    },
+    {
+      "path": "logical_anomalies/002.png",
+      "score": 0.3044961545061558
+    },
+    {
+      "path": "structural_anomalies/056.png",
+      "score": 0.30611021911844294
+    },
+    {
+      "path": "structural_anomalies/060.png",
+      "score": 0.3135240074801952
+    },
+    {
+      "path": "structural_anomalies/062.png",
+      "score": 0.31599196633125876
+    },
+    {
+      "path": "logical_anomalies/003.png",
+      "score": 0.3323922017787365
+    },
+    {
+      "path": "structural_anomalies/057.png",
+      "score": 0.34149624502405207
+    },
+    {
+      "path": "structural_anomalies/063.png",
+      "score": 0.3490302562713623
+    },
+    {
+      "path": "structural_anomalies/058.png",
+      "score": 0.3516026709942108
+    },
+    {
+      "path": "structural_anomalies/048.png",
+      "score": 0.3973548951301169
+    },
+    {
+      "path": "structural_anomalies/047.png",
+      "score": 0.41544241347211475
+    },
+    {
+      "path": "structural_anomalies/051.png",
+      "score": 0.4529748625577764
+    },
+    {
+      "path": "structural_anomalies/046.png",
+      "score": 0.47695922788153305
+    },
+    {
+      "path": "structural_anomalies/052.png",
+      "score": 0.5444940379325379
+    }
+  ]
+}
