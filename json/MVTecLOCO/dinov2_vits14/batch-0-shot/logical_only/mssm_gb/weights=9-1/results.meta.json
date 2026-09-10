@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "dataset": "MVTecLOCO",
+    "experiment_scope": "logical_only",
+    "test_types": [
+      "good",
+      "logical_anomalies"
+    ],
+    "ranking_algorithm": "mssm_gb_per_object_rank_fusion_90_10_v1",
+    "ranking_mode": "gb_fixed_rank_fusion",
+    "ranking_tag": "gb-rankfusion-g90-b10",
+    "data_root": "/home/lxq/Data/mvtec_loco_anomaly_detection",
+    "model_name": "dinov2_vits14",
+    "resolution": 672,
+    "rank_scope": "per_object_empirical_percentile_average_ties_v1",
+    "score_weights": {
+      "global": 0.9,
+      "bidirectional": 0.1
+    },
+    "source_rankings": {
+      "global": {
+        "path": "/home/lxq/Project/rememsimple/json/MVTecLOCO/dinov2_vits14/batch-0-shot/logical_only/mssm_gc/global_layer=12/results.json",
+        "sha256": "eb5e253f6dd36c89968af8c982258993a7f3af4437aeaa58e3eeecbcde9d1e48",
+        "metadata_path": "/home/lxq/Project/rememsimple/json/MVTecLOCO/dinov2_vits14/batch-0-shot/logical_only/mssm_gc/global_layer=12/results.meta.json",
+        "metadata_sha256": "8424ccd2c72ca63046411c1eaca426edc1a083d0d8f88890f3ba4b5cd56c4be9",
+        "ranking_algorithm": "mssm_gc_global_density_spatial_count_consensus_v2",
+        "ranking_tag": "gc-g12-k10-c8-grid12",
+        "score_field": "global_score"
+      },
+      "bidirectional": {
+        "path": "/home/lxq/Project/rememsimple/json/MVTecLOCO/dinov2_vits14/batch-0-shot/logical_only/mssm_b/layer=12/results.json",
+        "sha256": "7a0853baaa7d95c5f662401178e09fad7711d260478d2422424872cbd499d6ca",
+        "metadata_path": "/home/lxq/Project/rememsimple/json/MVTecLOCO/dinov2_vits14/batch-0-shot/logical_only/mssm_b/layer=12/results.meta.json",
+        "metadata_sha256": "0b345080f52e8de454879719daab79526b32ec56bde244815f14773d6790d6db",
+        "ranking_algorithm": "mssm_b_bidirectional_position_constrained_knn_v1",
+        "ranking_tag": "b-l12-k3-grid12-r2-p0.25-tail0.1",
+        "score_field": "score"
+      }
+    },
+    "uses_original_patch_mssm": false,
+    "uses_mssm_c": false,
+    "uses_train_good": false,
+    "uses_ground_truth_labels_for_score_computation": false,
+    "weight_selection_origin": "user_fixed_9_to_1"
+  },
+  "completed_objects": [
+    "breakfast_box",
+    "juice_bottle",
+    "pushpins",
+    "screw_bag",
+    "splicing_connectors"
+  ]
+}
