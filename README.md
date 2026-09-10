@@ -1,2 +1,0 @@
-# rememloco
-logical loco AD
