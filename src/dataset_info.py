@@ -46,8 +46,6 @@ MVTec_LOCO_TEST_TYPES = (
 MVTec_LOCO_RANKING_ALGORITHMS = (
     "mssm_gc_global_density_spatial_count_consensus_v2",
     "mssm_b_bidirectional_position_constrained_knn_v1",
-    "mssm_gcb_per_object_rank_fusion_85_04_11_v1",
-    "mssm_gcb_per_object_rank_fusion_53_18_29_v1",
     "mssm_gb_per_object_rank_fusion_90_10_v1",
 )
 # Native archives may retain these directories; experiments never consume them.

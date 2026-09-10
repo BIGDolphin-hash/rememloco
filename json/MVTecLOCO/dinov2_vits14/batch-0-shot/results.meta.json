@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "dataset": "MVTecLOCO",
+    "ranking_algorithm": "mssm_leave_one_image_out_content_ties_v1",
+    "data_root": "/home/lxq/Data/mvtec_loco_anomaly_detection",
+    "model_name": "dinov2_vits14",
+    "resolution": 672,
+    "quantile": 0.001,
+    "image_tail_fraction": 0.01
+  },
+  "completed_objects": [
+    "breakfast_box",
+    "juice_bottle",
+    "pushpins",
+    "screw_bag",
+    "splicing_connectors"
+  ]
+}

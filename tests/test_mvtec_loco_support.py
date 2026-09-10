@@ -31,13 +31,6 @@ from generate_loco_mssm_scores import (
     parse_args as parse_loco_mssm_args,
 )
 from generate_loco_mssm_b_scores import parse_args as parse_loco_mssm_b_args
-from fuse_loco_mssm_gcb_scores import (
-    BIDIRECTIONAL_WEIGHT,
-    COUNT_WEIGHT,
-    GLOBAL_WEIGHT,
-    fuse_object_rankings,
-    parse_args as parse_loco_mssm_gcb_args,
-)
 from fuse_loco_mssm_gb_scores import (
     BIDIRECTIONAL_WEIGHT as GB_BIDIRECTIONAL_WEIGHT,
     GLOBAL_WEIGHT as GB_GLOBAL_WEIGHT,
@@ -206,72 +199,6 @@ def test_loco_mssm_b_cli_is_an_independent_layer_12_ranking(
     assert not hasattr(args, "global_weight")
     assert not hasattr(args, "count_weight")
     assert not hasattr(args, "mssm_layers")
-
-
-def test_loco_mssm_gcb_cli_has_fixed_53_18_29_weights(
-    monkeypatch: pytest.MonkeyPatch,
-) -> None:
-    monkeypatch.setattr(sys, "argv", ["fuse_loco_mssm_gcb_scores.py"])
-    args = parse_loco_mssm_gcb_args()
-
-    assert GLOBAL_WEIGHT == pytest.approx(0.53)
-    assert COUNT_WEIGHT == pytest.approx(0.18)
-    assert BIDIRECTIONAL_WEIGHT == pytest.approx(0.29)
-    assert not hasattr(args, "global_weight")
-    assert not hasattr(args, "count_weight")
-    assert not hasattr(args, "bidirectional_weight")
-    assert args.output_json.endswith(
-        "logical_only/mssm_gcb/weights=53-18-29/results.json"
-    )
-    assert Config.JSON_STARTS["MVTecLOCO"] != args.output_json
-
-
-def test_loco_mssm_gcb_fuses_per_object_percentile_ranks(
-    tmp_path: Path,
-) -> None:
-    _write_loco_test_images(tmp_path)
-    gc_entries = [
-        {"path": "good/000.png", "score": 0.5, "global_score": 1.0, "count_score": 9.0},
-        {
-            "path": "logical_anomalies/000.png",
-            "score": 0.6,
-            "global_score": 2.0,
-            "count_score": 3.0,
-        },
-    ]
-    b_entries = [
-        {
-            "path": "logical_anomalies/000.png",
-            "score": 4.0,
-            "query_to_template_score": 4.5,
-            "template_to_query_score": 3.5,
-            "directional_gap": 1.0,
-        },
-        {
-            "path": "good/000.png",
-            "score": 8.0,
-            "query_to_template_score": 7.0,
-            "template_to_query_score": 9.0,
-            "directional_gap": -2.0,
-        },
-    ]
-
-    fused = fuse_object_rankings(
-        gc_entries,
-        b_entries,
-        test_root=tmp_path / OBJECT_NAME / "test",
-    )
-
-    assert [entry["path"] for entry in fused] == [
-        "good/000.png",
-        "logical_anomalies/000.png",
-    ]
-    assert fused[0]["score"] == pytest.approx(0.47)
-    assert fused[1]["score"] == pytest.approx(0.53)
-    assert fused[0]["global_rank"] == pytest.approx(0.0)
-    assert fused[0]["count_rank"] == pytest.approx(1.0)
-    assert fused[0]["bidirectional_rank"] == pytest.approx(1.0)
-    assert fused[0]["bidirectional_score"] == pytest.approx(8.0)
 
 
 def test_loco_mssm_gb_cli_has_fixed_9_to_1_weights(
