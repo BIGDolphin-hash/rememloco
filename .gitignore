@@ -1,0 +1,36 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments and editor/OS files
+.DS_Store
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Local credentials and machine-specific overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datasets, downloaded assets, and generated experiment artifacts
+/data
+datasets/
+features/
+results/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.log
+
+# Generated validation/evaluation summaries at the repository root
+/*_validation.json
+/metrics_seed=*.json
